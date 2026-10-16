@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-16T02:39:18-04:00",
+ "generatedAt": "2000-01-01T00:00:00+00:00",
  "count": 867,
  "items": [
   {
@@ -274,9 +274,9 @@
    "priceUSD": 129
   },
   {
-   "key": "alpaka bravo brief 14”",
-   "alias": "bravo brief 14”",
-   "name": "Alpaka Bravo Brief 14”",
+   "key": "alpaka bravo brief 14\u201d",
+   "alias": "bravo brief 14\u201d",
+   "name": "Alpaka Bravo Brief 14\u201d",
    "brand": "Alpaka",
    "category": "Bags",
    "grams": 860,
@@ -589,9 +589,9 @@
    "priceUSD": 75
   },
   {
-   "key": "alpaka metro sling v2 — horse edition",
-   "alias": "metro sling v2 — horse edition",
-   "name": "Alpaka Metro Sling V2 — Horse Edition",
+   "key": "alpaka metro sling v2 \u2014 horse edition",
+   "alias": "metro sling v2 \u2014 horse edition",
+   "name": "Alpaka Metro Sling V2 \u2014 Horse Edition",
    "brand": "Alpaka",
    "category": "Bags",
    "grams": 320,
@@ -7051,9 +7051,9 @@
    "priceUSD": 599
   },
   {
-   "key": "tactile turn ansø pen",
-   "alias": "ansø pen",
-   "name": "Tactile Turn Ansø Pen",
+   "key": "tactile turn ans\u00f8 pen",
+   "alias": "ans\u00f8 pen",
+   "name": "Tactile Turn Ans\u00f8 Pen",
    "brand": "Tactile Turn",
    "category": "Tools/EDC",
    "grams": 33,
@@ -7141,9 +7141,9 @@
    "priceUSD": 89
   },
   {
-   "key": "the elko — 2026 sandvik edition",
+   "key": "the elko \u2014 2026 sandvik edition",
    "alias": null,
-   "name": "The Elko — 2026 Sandvik Edition",
+   "name": "The Elko \u2014 2026 Sandvik Edition",
    "brand": "The James Brand",
    "category": "Tools/EDC",
    "grams": 37,
