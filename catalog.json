@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-16T02:39:18-04:00",
- "count": 867,
+ "generatedAt": "2026-10-23T11:06:40-04:00",
+ "count": 1174,
  "items": [
   {
    "key": "8bitdo ultimate 2 wireless controller",
@@ -40,6 +40,15 @@
    "priceUSD": 70
   },
   {
+   "key": "acebeam k1",
+   "alias": null,
+   "name": "Acebeam K1",
+   "brand": "Acebeam",
+   "category": "Tools/EDC",
+   "grams": 77,
+   "priceUSD": 55
+  },
+  {
    "key": "acebeam pokelit aa",
    "alias": "pokelit aa",
    "name": "Acebeam Pokelit AA",
@@ -58,6 +67,15 @@
    "priceUSD": 80
   },
   {
+   "key": "adventure medical kits mountain series day tripper lite",
+   "alias": "mountain series day tripper lite",
+   "name": "Adventure Medical Kits Mountain Series Day Tripper Lite",
+   "brand": "Adventure Medical Kits",
+   "category": "Tools/EDC",
+   "grams": 96,
+   "priceUSD": 23
+  },
+  {
    "key": "adventure medical kits ultralight watertight .7",
    "alias": "ultralight watertight .7",
    "name": "Adventure Medical Kits Ultralight Watertight .7",
@@ -65,6 +83,15 @@
    "category": "Tools/EDC",
    "grams": 240,
    "priceUSD": 55
+  },
+  {
+   "key": "adventure medical kits ultralight/watertight .3",
+   "alias": "ultralight/watertight .3",
+   "name": "Adventure Medical Kits Ultralight/Watertight .3",
+   "brand": "Adventure Medical Kits",
+   "category": "Tools/EDC",
+   "grams": 74,
+   "priceUSD": 14
   },
   {
    "key": "adventure medical kits ultralight/watertight .5",
@@ -83,6 +110,15 @@
    "category": "Tools/EDC",
    "grams": 260,
    "priceUSD": 32
+  },
+  {
+   "key": "aer city pack pro 2 20l",
+   "alias": "city pack pro 2 20l",
+   "name": "Aer City Pack Pro 2 20L",
+   "brand": "Aer",
+   "category": "Bags",
+   "grams": 1243,
+   "priceUSD": 199
   },
   {
    "key": "aer day pack 3",
@@ -256,6 +292,42 @@
    "priceUSD": 109
   },
   {
+   "key": "alpaka ark bifold cash wallet",
+   "alias": "ark bifold cash wallet",
+   "name": "Alpaka ARK Bifold Cash Wallet",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 50,
+   "priceUSD": 23
+  },
+  {
+   "key": "alpaka ark bifold cash wallet - axogrid",
+   "alias": "ark bifold cash wallet - axogrid",
+   "name": "Alpaka ARK Bifold Cash Wallet - Axogrid",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 50,
+   "priceUSD": 27
+  },
+  {
+   "key": "alpaka ark bifold coin wallet",
+   "alias": "ark bifold coin wallet",
+   "name": "Alpaka ARK Bifold Coin Wallet",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 80,
+   "priceUSD": 55
+  },
+  {
+   "key": "alpaka ark classic wallet",
+   "alias": "ark classic wallet",
+   "name": "Alpaka ARK Classic Wallet",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 80,
+   "priceUSD": 27
+  },
+  {
    "key": "alpaka bravo backpack (23l)",
    "alias": "bravo backpack (23l)",
    "name": "Alpaka Bravo Backpack (23L)",
@@ -315,8 +387,17 @@
    "name": "Alpaka Bravo Sling Mini V2",
    "brand": "Alpaka",
    "category": "Bags",
-   "grams": 500,
+   "grams": 380,
    "priceUSD": 68
+  },
+  {
+   "key": "alpaka bravo tote v2 (12l)",
+   "alias": "bravo tote v2 (12l)",
+   "name": "Alpaka Bravo Tote V2 (12L)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 765,
+   "priceUSD": 129
   },
   {
    "key": "alpaka bravo tote v2 (14l)",
@@ -351,7 +432,7 @@
    "name": "Alpaka Bravo X Sling V2",
    "brand": "Alpaka",
    "category": "Bags",
-   "grams": 600,
+   "grams": 585,
    "priceUSD": 119
   },
   {
@@ -388,7 +469,7 @@
    "brand": "Alpaka",
    "category": "Bags",
    "grams": 450,
-   "priceUSD": 49
+   "priceUSD": 59
   },
   {
    "key": "alpaka elements tote (l)",
@@ -427,6 +508,24 @@
    "priceUSD": 259
   },
   {
+   "key": "alpaka essential backpack (16l)",
+   "alias": "essential backpack (16l)",
+   "name": "Alpaka Essential Backpack (16L)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 600,
+   "priceUSD": 159
+  },
+  {
+   "key": "alpaka essential backpack pro (22l)",
+   "alias": "essential backpack pro (22l)",
+   "name": "Alpaka Essential Backpack Pro (22L)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 900,
+   "priceUSD": 149
+  },
+  {
    "key": "alpaka flight pouch",
    "alias": "flight pouch",
    "name": "Alpaka Flight Pouch",
@@ -434,6 +533,33 @@
    "category": "Bags",
    "grams": 180,
    "priceUSD": 45
+  },
+  {
+   "key": "alpaka flight pouch - ultradyne",
+   "alias": "flight pouch - ultradyne",
+   "name": "Alpaka Flight Pouch - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 180,
+   "priceUSD": 59
+  },
+  {
+   "key": "alpaka flight pouch pro",
+   "alias": "flight pouch pro",
+   "name": "Alpaka Flight Pouch Pro",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 220,
+   "priceUSD": 55
+  },
+  {
+   "key": "alpaka flight pouch pro - ultradyne",
+   "alias": "flight pouch pro - ultradyne",
+   "name": "Alpaka Flight Pouch Pro - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 210,
+   "priceUSD": 69
   },
   {
    "key": "alpaka flight satchel",
@@ -445,13 +571,49 @@
    "priceUSD": 119
   },
   {
+   "key": "alpaka flight satchel - ultradyne",
+   "alias": "flight satchel - ultradyne",
+   "name": "Alpaka Flight Satchel - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 550,
+   "priceUSD": 139
+  },
+  {
    "key": "alpaka flight sling",
    "alias": "flight sling",
    "name": "Alpaka Flight Sling",
    "brand": "Alpaka",
    "category": "Bags",
    "grams": 200,
-   "priceUSD": 109
+   "priceUSD": 45
+  },
+  {
+   "key": "alpaka flight sling (1l) - ultradyne",
+   "alias": "flight sling (1l) - ultradyne",
+   "name": "Alpaka Flight Sling (1L) - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 190,
+   "priceUSD": 59
+  },
+  {
+   "key": "alpaka flight sling (2l)",
+   "alias": "flight sling (2l)",
+   "name": "Alpaka Flight Sling (2L)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 240,
+   "priceUSD": 49
+  },
+  {
+   "key": "alpaka flight sling (2l) - ultradyne",
+   "alias": "flight sling (2l) - ultradyne",
+   "name": "Alpaka Flight Sling (2L) - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 220,
+   "priceUSD": 69
   },
   {
    "key": "alpaka flight sling pro (2.5l)",
@@ -517,6 +679,15 @@
    "priceUSD": 129
   },
   {
+   "key": "alpaka flow satchel (4l)",
+   "alias": "flow satchel (4l)",
+   "name": "Alpaka Flow Satchel (4L)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 400,
+   "priceUSD": 109
+  },
+  {
    "key": "alpaka flow totepack",
    "alias": "flow totepack",
    "name": "Alpaka Flow Totepack",
@@ -544,6 +715,78 @@
    "priceUSD": 59
   },
   {
+   "key": "alpaka hub carabiner",
+   "alias": "hub carabiner",
+   "name": "Alpaka HUB Carabiner",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 25,
+   "priceUSD": 29
+  },
+  {
+   "key": "alpaka hub carabiner (l)",
+   "alias": "hub carabiner (l)",
+   "name": "Alpaka HUB Carabiner (L)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 20,
+   "priceUSD": 35
+  },
+  {
+   "key": "alpaka hub cardholder",
+   "alias": "hub cardholder",
+   "name": "Alpaka HUB Cardholder",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 19,
+   "priceUSD": 19
+  },
+  {
+   "key": "alpaka hub earbuds pouch",
+   "alias": "hub earbuds pouch",
+   "name": "Alpaka HUB Earbuds Pouch",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 14,
+   "priceUSD": 19
+  },
+  {
+   "key": "alpaka hub keychain",
+   "alias": "hub keychain",
+   "name": "Alpaka HUB Keychain",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 8,
+   "priceUSD": 29
+  },
+  {
+   "key": "alpaka hub modpanel mini",
+   "alias": "hub modpanel mini",
+   "name": "Alpaka HUB ModPanel Mini",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 22,
+   "priceUSD": 30
+  },
+  {
+   "key": "alpaka hub patch panel",
+   "alias": "hub patch panel",
+   "name": "Alpaka HUB Patch Panel",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 13,
+   "priceUSD": 19
+  },
+  {
+   "key": "alpaka hub pouch pro",
+   "alias": "hub pouch pro",
+   "name": "Alpaka HUB Pouch Pro",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 70,
+   "priceUSD": 45
+  },
+  {
    "key": "alpaka hub pouch v2",
    "alias": "hub pouch v2",
    "name": "Alpaka HUB Pouch V2",
@@ -551,6 +794,42 @@
    "category": "Bags",
    "grams": 65,
    "priceUSD": 39
+  },
+  {
+   "key": "alpaka hub sanitizer holder",
+   "alias": "hub sanitizer holder",
+   "name": "Alpaka HUB Sanitizer Holder",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 30,
+   "priceUSD": 19
+  },
+  {
+   "key": "alpaka hub sunglasses pouch",
+   "alias": "hub sunglasses pouch",
+   "name": "Alpaka HUB Sunglasses Pouch",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 24,
+   "priceUSD": 19
+  },
+  {
+   "key": "alpaka hub tactical clip",
+   "alias": "hub tactical clip",
+   "name": "Alpaka HUB Tactical Clip",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 30,
+   "priceUSD": 29
+  },
+  {
+   "key": "alpaka hub zip pocket",
+   "alias": "hub zip pocket",
+   "name": "Alpaka HUB Zip Pocket",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 70,
+   "priceUSD": 23
   },
   {
    "key": "alpaka metro backpack (12l)",
@@ -580,12 +859,39 @@
    "priceUSD": 129
   },
   {
+   "key": "alpaka metro crossbody (left) - ultradyne",
+   "alias": "metro crossbody (left) - ultradyne",
+   "name": "Alpaka Metro Crossbody (Left) - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 680,
+   "priceUSD": 169
+  },
+  {
    "key": "alpaka metro sling max",
    "alias": "metro sling max",
    "name": "Alpaka Metro Sling Max",
    "brand": "Alpaka",
    "category": "Bags",
    "grams": 360,
+   "priceUSD": 89
+  },
+  {
+   "key": "alpaka metro sling v2",
+   "alias": "metro sling v2",
+   "name": "Alpaka Metro Sling V2",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 280,
+   "priceUSD": 59
+  },
+  {
+   "key": "alpaka metro sling v2 - ultradyne",
+   "alias": "metro sling v2 - ultradyne",
+   "name": "Alpaka Metro Sling V2 - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 275,
    "priceUSD": 75
   },
   {
@@ -616,6 +922,15 @@
    "priceUSD": 49
   },
   {
+   "key": "alpaka modular shoulder pocket max - ultradyne",
+   "alias": "modular shoulder pocket max - ultradyne",
+   "name": "Alpaka Modular Shoulder Pocket Max - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 160,
+   "priceUSD": 59
+  },
+  {
    "key": "alpaka modular shoulder pocket slim",
    "alias": "modular shoulder pocket slim",
    "name": "Alpaka Modular Shoulder Pocket Slim",
@@ -625,6 +940,15 @@
    "priceUSD": 45
   },
   {
+   "key": "alpaka modular shoulder pocket slim - ultradyne",
+   "alias": "modular shoulder pocket slim - ultradyne",
+   "name": "Alpaka Modular Shoulder Pocket Slim - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 150,
+   "priceUSD": 55
+  },
+  {
    "key": "alpaka modular sling v2",
    "alias": "modular sling v2",
    "name": "Alpaka Modular Sling V2",
@@ -632,6 +956,15 @@
    "category": "Bags",
    "grams": 260,
    "priceUSD": 65
+  },
+  {
+   "key": "alpaka modular sling v2 - ultradyne",
+   "alias": "modular sling v2 - ultradyne",
+   "name": "Alpaka Modular Sling V2 - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 250,
+   "priceUSD": 79
   },
   {
    "key": "alpaka momentum backpack",
@@ -648,7 +981,7 @@
    "name": "Alpaka Momentum Duffel",
    "brand": "Alpaka",
    "category": "Bags",
-   "grams": 650,
+   "grams": 820,
    "priceUSD": 189
   },
   {
@@ -688,6 +1021,24 @@
    "priceUSD": 269
   },
   {
+   "key": "alpaka vertex pouch mini (2l)",
+   "alias": "vertex pouch mini (2l)",
+   "name": "Alpaka Vertex Pouch Mini (2L)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 350,
+   "priceUSD": 89
+  },
+  {
+   "key": "alpaka zip card pouch",
+   "alias": "zip card pouch",
+   "name": "Alpaka Zip Card Pouch",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 40,
+   "priceUSD": 39
+  },
+  {
    "key": "alpaka zip clutch",
    "alias": "zip clutch",
    "name": "Alpaka Zip Clutch",
@@ -697,6 +1048,87 @@
    "priceUSD": 49
   },
   {
+   "key": "alpaka zip clutch - ultradyne",
+   "alias": "zip clutch - ultradyne",
+   "name": "Alpaka Zip Clutch - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 75,
+   "priceUSD": 45
+  },
+  {
+   "key": "alpaka zip coin wallet",
+   "alias": "zip coin wallet",
+   "name": "Alpaka Zip Coin Wallet",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 50,
+   "priceUSD": 35
+  },
+  {
+   "key": "alpaka zip id wallet",
+   "alias": "zip id wallet",
+   "name": "Alpaka Zip ID Wallet",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 49
+  },
+  {
+   "key": "alpaka zip passport wallet",
+   "alias": "zip passport wallet",
+   "name": "Alpaka Zip Passport Wallet",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 200,
+   "priceUSD": 59
+  },
+  {
+   "key": "alpaka zip pouch",
+   "alias": "zip pouch",
+   "name": "Alpaka Zip Pouch",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 32,
+   "priceUSD": 35
+  },
+  {
+   "key": "alpaka zip pouch - ultradyne",
+   "alias": "zip pouch - ultradyne",
+   "name": "Alpaka Zip Pouch - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 30,
+   "priceUSD": 29
+  },
+  {
+   "key": "alpaka zip pouch max v2 - ultradyne",
+   "alias": "zip pouch max v2 - ultradyne",
+   "name": "Alpaka Zip Pouch Max V2 - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 220,
+   "priceUSD": 69
+  },
+  {
+   "key": "alpaka zip pouch pro",
+   "alias": "zip pouch pro",
+   "name": "Alpaka Zip Pouch Pro",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 40,
+   "priceUSD": 39
+  },
+  {
+   "key": "alpaka zip pouch pro - ultradyne",
+   "alias": "zip pouch pro - ultradyne",
+   "name": "Alpaka Zip Pouch Pro - Ultradyne",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 40,
+   "priceUSD": 35
+  },
+  {
    "key": "alpaka zip pro",
    "alias": "zip pro",
    "name": "Alpaka Zip Pro",
@@ -704,6 +1136,15 @@
    "category": "Bags",
    "grams": 450,
    "priceUSD": 85
+  },
+  {
+   "key": "alpaka zip travel wallet",
+   "alias": "zip travel wallet",
+   "name": "Alpaka Zip Travel Wallet",
+   "brand": "Alpaka",
+   "category": "Tools/EDC",
+   "grams": 130,
+   "priceUSD": 49
   },
   {
    "key": "amazfit balance 2",
@@ -848,6 +1289,15 @@
    "category": "Tech/Electronics",
    "grams": 112,
    "priceUSD": 30
+  },
+  {
+   "key": "anker nano power bank (30w, built-in usb-c cable)",
+   "alias": "nano power bank (30w, built-in usb-c cable)",
+   "name": "Anker Nano Power Bank (30W, Built-In USB-C Cable)",
+   "brand": "Anker",
+   "category": "Tech/Electronics",
+   "grams": 215,
+   "priceUSD": 50
   },
   {
    "key": "anker nano power bank (5k, maggo, slim)",
@@ -1417,6 +1867,15 @@
    "priceUSD": 1199
   },
   {
+   "key": "apple iphone 17e",
+   "alias": "iphone 17e",
+   "name": "Apple iPhone 17e",
+   "brand": "Apple",
+   "category": "Tech/Electronics",
+   "grams": 169,
+   "priceUSD": 699
+  },
+  {
    "key": "apple iphone 18 pro",
    "alias": "iphone 18 pro",
    "name": "Apple iPhone 18 Pro",
@@ -1858,6 +2317,15 @@
    "priceUSD": 110
   },
   {
+   "key": "armytek wizard c2 wuv",
+   "alias": "wizard c2 wuv",
+   "name": "Armytek Wizard C2 WUV",
+   "brand": "Armytek",
+   "category": "Tools/EDC",
+   "grams": 65,
+   "priceUSD": 85
+  },
+  {
    "key": "asus rog ally x",
    "alias": "rog ally x",
    "name": "ASUS ROG Ally X",
@@ -2119,6 +2587,15 @@
    "priceUSD": 40
   },
   {
+   "key": "beats 360",
+   "alias": null,
+   "name": "Beats 360",
+   "brand": "Beats",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 350
+  },
+  {
    "key": "beats fit pro",
    "alias": null,
    "name": "Beats Fit Pro",
@@ -2128,6 +2605,33 @@
    "priceUSD": 72
   },
   {
+   "key": "beats flex",
+   "alias": null,
+   "name": "Beats Flex",
+   "brand": "Beats",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 70
+  },
+  {
+   "key": "beats pill",
+   "alias": null,
+   "name": "Beats Pill",
+   "brand": "Beats",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 150
+  },
+  {
+   "key": "beats powerbeats fit",
+   "alias": "powerbeats fit",
+   "name": "Beats Powerbeats Fit",
+   "brand": "Beats",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 200
+  },
+  {
    "key": "beats powerbeats pro (2nd gen)",
    "alias": "powerbeats pro (2nd gen)",
    "name": "Beats Powerbeats Pro (2nd gen)",
@@ -2135,6 +2639,15 @@
    "category": "Tech/Electronics",
    "grams": null,
    "priceUSD": 145
+  },
+  {
+   "key": "beats solo 4",
+   "alias": null,
+   "name": "Beats Solo 4",
+   "brand": "Beats",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 200
   },
   {
    "key": "beats solo buds",
@@ -2173,13 +2686,193 @@
    "priceUSD": 100
   },
   {
+   "key": "bellroy apex note sleeve",
+   "alias": "apex note sleeve",
+   "name": "Bellroy Apex Note Sleeve",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 39,
+   "priceUSD": 159
+  },
+  {
+   "key": "bellroy apex slim sleeve",
+   "alias": "apex slim sleeve",
+   "name": "Bellroy Apex Slim Sleeve",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 34,
+   "priceUSD": 135
+  },
+  {
+   "key": "bellroy carabiner trio",
+   "alias": "carabiner trio",
+   "name": "Bellroy Carabiner Trio",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 13,
+   "priceUSD": 29
+  },
+  {
+   "key": "bellroy card pocket",
+   "alias": "card pocket",
+   "name": "Bellroy Card Pocket",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 49,
+   "priceUSD": 69
+  },
+  {
    "key": "bellroy card sleeve",
    "alias": "card sleeve",
    "name": "Bellroy Card Sleeve",
    "brand": "Bellroy",
    "category": "Tools/EDC",
-   "grams": 35,
+   "grams": 17,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy card sleeve mirum edition",
+   "alias": "card sleeve mirum edition",
+   "name": "Bellroy Card Sleeve MIRUM Edition",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 19,
    "priceUSD": 45
+  },
+  {
+   "key": "bellroy card slip",
+   "alias": "card slip",
+   "name": "Bellroy Card Slip",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 25,
+   "priceUSD": 65
+  },
+  {
+   "key": "bellroy carryology essentials sling",
+   "alias": "carryology essentials sling",
+   "name": "Bellroy Carryology Essentials Sling",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 360,
+   "priceUSD": 129
+  },
+  {
+   "key": "bellroy cinch backpack 20l",
+   "alias": "cinch backpack 20l",
+   "name": "Bellroy Cinch Backpack 20L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 500,
+   "priceUSD": 125
+  },
+  {
+   "key": "bellroy cinch bucket bag 9l",
+   "alias": "cinch bucket bag 9l",
+   "name": "Bellroy Cinch Bucket Bag 9L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 260,
+   "priceUSD": 89
+  },
+  {
+   "key": "bellroy cinch carryall",
+   "alias": "cinch carryall",
+   "name": "Bellroy Cinch Carryall",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 450,
+   "priceUSD": 129
+  },
+  {
+   "key": "bellroy cinch messenger 12l",
+   "alias": "cinch messenger 12l",
+   "name": "Bellroy Cinch Messenger 12L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 400,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy cinch mini messenger 6l",
+   "alias": "cinch mini messenger 6l",
+   "name": "Bellroy Cinch Mini Messenger 6L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 205,
+   "priceUSD": 79
+  },
+  {
+   "key": "bellroy cinch minipack 9l",
+   "alias": "cinch minipack 9l",
+   "name": "Bellroy Cinch Minipack 9L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 300,
+   "priceUSD": 89
+  },
+  {
+   "key": "bellroy cinch pocket",
+   "alias": "cinch pocket",
+   "name": "Bellroy Cinch Pocket",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 45,
+   "priceUSD": 25
+  },
+  {
+   "key": "bellroy cinch pouch",
+   "alias": "cinch pouch",
+   "name": "Bellroy Cinch Pouch",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 30,
+   "priceUSD": 25
+  },
+  {
+   "key": "bellroy cinch sling",
+   "alias": "cinch sling",
+   "name": "Bellroy Cinch Sling",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 250,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy cinch tote 16l",
+   "alias": "cinch tote 16l",
+   "name": "Bellroy Cinch Tote 16L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 300,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy city pouch",
+   "alias": "city pouch",
+   "name": "Bellroy City Pouch",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 150,
+   "priceUSD": 65
+  },
+  {
+   "key": "bellroy city tote",
+   "alias": "city tote",
+   "name": "Bellroy City Tote",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 135,
+   "priceUSD": 45
+  },
+  {
+   "key": "bellroy classic backpack (third edition)",
+   "alias": "classic backpack (third edition)",
+   "name": "Bellroy Classic Backpack (Third Edition)",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 700,
+   "priceUSD": 145
   },
   {
    "key": "bellroy classic backpack plus",
@@ -2191,6 +2884,150 @@
    "priceUSD": 199
   },
   {
+   "key": "bellroy classic daypack",
+   "alias": "classic daypack",
+   "name": "Bellroy Classic Daypack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 815,
+   "priceUSD": 149
+  },
+  {
+   "key": "bellroy classic duffel 45l",
+   "alias": "classic duffel 45l",
+   "name": "Bellroy Classic Duffel 45L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 912,
+   "priceUSD": 179
+  },
+  {
+   "key": "bellroy classic getaway bag",
+   "alias": "classic getaway bag",
+   "name": "Bellroy Classic Getaway Bag",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 674,
+   "priceUSD": 149
+  },
+  {
+   "key": "bellroy classic messenger 6l",
+   "alias": "classic messenger 6l",
+   "name": "Bellroy Classic Messenger 6L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 460,
+   "priceUSD": 129
+  },
+  {
+   "key": "bellroy classic messenger gaming edition",
+   "alias": "classic messenger gaming edition",
+   "name": "Bellroy Classic Messenger Gaming Edition",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 560,
+   "priceUSD": 139
+  },
+  {
+   "key": "bellroy classic rolltop",
+   "alias": "classic rolltop",
+   "name": "Bellroy Classic Rolltop",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 910,
+   "priceUSD": 179
+  },
+  {
+   "key": "bellroy classic sling 7l",
+   "alias": "classic sling 7l",
+   "name": "Bellroy Classic Sling 7L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 350,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy classic tote",
+   "alias": "classic tote",
+   "name": "Bellroy Classic Tote",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 564,
+   "priceUSD": 135
+  },
+  {
+   "key": "bellroy coin wallet",
+   "alias": "coin wallet",
+   "name": "Bellroy Coin Wallet",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 58,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy crossbody strap",
+   "alias": "crossbody strap",
+   "name": "Bellroy Crossbody Strap",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 33,
+   "priceUSD": 39
+  },
+  {
+   "key": "bellroy desk caddy",
+   "alias": "desk caddy",
+   "name": "Bellroy Desk Caddy",
+   "brand": "Bellroy",
+   "category": "Tech/Electronics",
+   "grams": 148,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy flip case",
+   "alias": "flip case",
+   "name": "Bellroy Flip Case",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 52,
+   "priceUSD": 95
+  },
+  {
+   "key": "bellroy folio mini",
+   "alias": "folio mini",
+   "name": "Bellroy Folio Mini",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 66,
+   "priceUSD": 95
+  },
+  {
+   "key": "bellroy folio piccolo",
+   "alias": "folio piccolo",
+   "name": "Bellroy Folio Piccolo",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 76,
+   "priceUSD": 79
+  },
+  {
+   "key": "bellroy folio wallet",
+   "alias": "folio wallet",
+   "name": "Bellroy Folio Wallet",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 191,
+   "priceUSD": 129
+  },
+  {
+   "key": "bellroy hanging toiletry kit plus",
+   "alias": "hanging toiletry kit plus",
+   "name": "Bellroy Hanging Toiletry Kit Plus",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 400,
+   "priceUSD": 95
+  },
+  {
    "key": "bellroy hide & seek",
    "alias": "hide & seek",
    "name": "Bellroy Hide & Seek",
@@ -2198,6 +3035,15 @@
    "category": "Tools/EDC",
    "grams": 60,
    "priceUSD": 109
+  },
+  {
+   "key": "bellroy hide & seek premium edition",
+   "alias": "hide & seek premium edition",
+   "name": "Bellroy Hide & Seek Premium Edition",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 58,
+   "priceUSD": 139
   },
   {
    "key": "bellroy key cover plus",
@@ -2209,13 +3055,436 @@
    "priceUSD": 59
   },
   {
+   "key": "bellroy key cover plus (third edition)",
+   "alias": "key cover plus (third edition)",
+   "name": "Bellroy Key Cover Plus (Third Edition)",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 19,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy l-pocket",
+   "alias": "l-pocket",
+   "name": "Bellroy L-Pocket",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 60,
+   "priceUSD": 79
+  },
+  {
+   "key": "bellroy laneway belt bag",
+   "alias": "laneway belt bag",
+   "name": "Bellroy Laneway Belt Bag",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 166,
+   "priceUSD": 75
+  },
+  {
+   "key": "bellroy laneway crescent bag 12l",
+   "alias": "laneway crescent bag 12l",
+   "name": "Bellroy Laneway Crescent Bag 12L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 300,
+   "priceUSD": 125
+  },
+  {
+   "key": "bellroy laneway daily pouch",
+   "alias": "laneway daily pouch",
+   "name": "Bellroy Laneway Daily Pouch",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 60,
+   "priceUSD": 39
+  },
+  {
+   "key": "bellroy laneway sacoche",
+   "alias": "laneway sacoche",
+   "name": "Bellroy Laneway Sacoche",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 135,
+   "priceUSD": 75
+  },
+  {
+   "key": "bellroy laneway sunglasses pocket",
+   "alias": "laneway sunglasses pocket",
+   "name": "Bellroy Laneway Sunglasses Pocket",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 60,
+   "priceUSD": 35
+  },
+  {
+   "key": "bellroy laneway tote 19l",
+   "alias": "laneway tote 19l",
+   "name": "Bellroy Laneway Tote 19L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 400,
+   "priceUSD": 145
+  },
+  {
+   "key": "bellroy laneway totepack",
+   "alias": "laneway totepack",
+   "name": "Bellroy Laneway Totepack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 500,
+   "priceUSD": 165
+  },
+  {
+   "key": "bellroy laptop caddy 16\"",
+   "alias": "laptop caddy 16\"",
+   "name": "Bellroy Laptop Caddy 16\"",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 380,
+   "priceUSD": 79
+  },
+  {
+   "key": "bellroy laptop sleeve 16\"",
+   "alias": "laptop sleeve 16\"",
+   "name": "Bellroy Laptop Sleeve 16\"",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 297,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy lite belt bag",
+   "alias": "lite belt bag",
+   "name": "Bellroy Lite Belt Bag",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 122,
+   "priceUSD": 49
+  },
+  {
+   "key": "bellroy lite carry-on",
+   "alias": "lite carry-on",
+   "name": "Bellroy Lite Carry-On",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 2100,
+   "priceUSD": 289
+  },
+  {
+   "key": "bellroy lite cooler caddy 10l",
+   "alias": "lite cooler caddy 10l",
+   "name": "Bellroy Lite Cooler Caddy 10L",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 200,
+   "priceUSD": 69
+  },
+  {
+   "key": "bellroy lite cooler tote",
+   "alias": "lite cooler tote",
+   "name": "Bellroy Lite Cooler Tote",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 300,
+   "priceUSD": 85
+  },
+  {
+   "key": "bellroy lite daypack",
+   "alias": "lite daypack",
+   "name": "Bellroy Lite Daypack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 350,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy lite duffel 40l",
+   "alias": "lite duffel 40l",
+   "name": "Bellroy Lite Duffel 40L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 515,
+   "priceUSD": 149
+  },
+  {
+   "key": "bellroy lite laptop sleeve 16\"",
+   "alias": "lite laptop sleeve 16\"",
+   "name": "Bellroy Lite Laptop Sleeve 16\"",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 272,
+   "priceUSD": 49
+  },
+  {
+   "key": "bellroy lite packing caddy 10l",
+   "alias": "lite packing caddy 10l",
+   "name": "Bellroy Lite Packing Caddy 10L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 109,
+   "priceUSD": 39
+  },
+  {
+   "key": "bellroy lite packing cube 12l",
+   "alias": "lite packing cube 12l",
+   "name": "Bellroy Lite Packing Cube 12L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 176,
+   "priceUSD": 49
+  },
+  {
+   "key": "bellroy lite packing pouch 3l",
+   "alias": "lite packing pouch 3l",
+   "name": "Bellroy Lite Packing Pouch 3L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 61,
+   "priceUSD": 29
+  },
+  {
+   "key": "bellroy lite pocket trio",
+   "alias": "lite pocket trio",
+   "name": "Bellroy Lite Pocket Trio",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 58,
+   "priceUSD": 39
+  },
+  {
+   "key": "bellroy lite pouch duo",
+   "alias": "lite pouch duo",
+   "name": "Bellroy Lite Pouch Duo",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 80,
+   "priceUSD": 45
+  },
+  {
+   "key": "bellroy lite ready pack",
+   "alias": "lite ready pack",
+   "name": "Bellroy Lite Ready Pack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 350,
+   "priceUSD": 139
+  },
+  {
+   "key": "bellroy lite sacoche",
+   "alias": "lite sacoche",
+   "name": "Bellroy Lite Sacoche",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 116,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy lite sling",
+   "alias": "lite sling",
+   "name": "Bellroy Lite Sling",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 221,
+   "priceUSD": 89
+  },
+  {
+   "key": "bellroy lite sling mini",
+   "alias": "lite sling mini",
+   "name": "Bellroy Lite Sling Mini",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 185,
+   "priceUSD": 79
+  },
+  {
+   "key": "bellroy lite tech kit",
+   "alias": "lite tech kit",
+   "name": "Bellroy Lite Tech Kit",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 120,
+   "priceUSD": 49
+  },
+  {
+   "key": "bellroy lite totepack",
+   "alias": "lite totepack",
+   "name": "Bellroy Lite Totepack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 414,
+   "priceUSD": 129
+  },
+  {
+   "key": "bellroy lite travel pack 38l",
+   "alias": "lite travel pack 38l",
+   "name": "Bellroy Lite Travel Pack 38L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 1000,
+   "priceUSD": 229
+  },
+  {
+   "key": "bellroy luggage tag",
+   "alias": "luggage tag",
+   "name": "Bellroy Luggage Tag",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 14,
+   "priceUSD": 29
+  },
+  {
+   "key": "bellroy mag wallet",
+   "alias": "mag wallet",
+   "name": "Bellroy Mag Wallet",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 53,
+   "priceUSD": 45
+  },
+  {
+   "key": "bellroy market tote",
+   "alias": "market tote",
+   "name": "Bellroy Market Tote",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 199,
+   "priceUSD": 45
+  },
+  {
+   "key": "bellroy market tote plus",
+   "alias": "market tote plus",
+   "name": "Bellroy Market Tote Plus",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 261,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy melbourne backpack",
+   "alias": "melbourne backpack",
+   "name": "Bellroy Melbourne Backpack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 750,
+   "priceUSD": 109
+  },
+  {
+   "key": "bellroy micro pen",
+   "alias": "micro pen",
+   "name": "Bellroy Micro Pen",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 10,
+   "priceUSD": 35
+  },
+  {
+   "key": "bellroy note sleeve",
+   "alias": "note sleeve",
+   "name": "Bellroy Note Sleeve",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 37,
+   "priceUSD": 95
+  },
+  {
+   "key": "bellroy note sleeve innovera edition",
+   "alias": "note sleeve innovera edition",
+   "name": "Bellroy Note Sleeve INNOVERA Edition",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 37,
+   "priceUSD": 95
+  },
+  {
+   "key": "bellroy note sleeve premium edition",
+   "alias": "note sleeve premium edition",
+   "name": "Bellroy Note Sleeve Premium Edition",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 47,
+   "priceUSD": 139
+  },
+  {
+   "key": "bellroy notebook cover",
+   "alias": "notebook cover",
+   "name": "Bellroy Notebook Cover",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 77,
+   "priceUSD": 89
+  },
+  {
+   "key": "bellroy owl charm",
+   "alias": "owl charm",
+   "name": "Bellroy Owl Charm",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 25,
+   "priceUSD": 35
+  },
+  {
+   "key": "bellroy passport cover",
+   "alias": "passport cover",
+   "name": "Bellroy Passport Cover",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 78,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy pencil case",
+   "alias": "pencil case",
+   "name": "Bellroy Pencil Case",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 48,
+   "priceUSD": 39
+  },
+  {
    "key": "bellroy slim sleeve",
    "alias": "slim sleeve",
    "name": "Bellroy Slim Sleeve",
    "brand": "Bellroy",
    "category": "Tools/EDC",
+   "grams": 34,
+   "priceUSD": 85
+  },
+  {
+   "key": "bellroy slim sleeve innovera edition",
+   "alias": "slim sleeve innovera edition",
+   "name": "Bellroy Slim Sleeve INNOVERA Edition",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 34,
+   "priceUSD": 85
+  },
+  {
+   "key": "bellroy slim sleeve premium edition",
+   "alias": "slim sleeve premium edition",
+   "name": "Bellroy Slim Sleeve Premium Edition",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
    "grams": 35,
-   "priceUSD": 75
+   "priceUSD": 125
+  },
+  {
+   "key": "bellroy sling mini",
+   "alias": "sling mini",
+   "name": "Bellroy Sling Mini",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 265,
+   "priceUSD": 55
+  },
+  {
+   "key": "bellroy tag case",
+   "alias": "tag case",
+   "name": "Bellroy Tag Case",
+   "brand": "Bellroy",
+   "category": "Tech/Electronics",
+   "grams": 8,
+   "priceUSD": 29
   },
   {
    "key": "bellroy tech kit",
@@ -2223,8 +3492,107 @@
    "name": "Bellroy Tech Kit",
    "brand": "Bellroy",
    "category": "Bags",
-   "grams": 180,
+   "grams": 120,
    "priceUSD": 69
+  },
+  {
+   "key": "bellroy toiletry kit",
+   "alias": "toiletry kit",
+   "name": "Bellroy Toiletry Kit",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 107,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy toiletry kit plus",
+   "alias": "toiletry kit plus",
+   "name": "Bellroy Toiletry Kit Plus",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 160,
+   "priceUSD": 69
+  },
+  {
+   "key": "bellroy tokyo folio 12.9\"",
+   "alias": "tokyo folio 12.9\"",
+   "name": "Bellroy Tokyo Folio 12.9\"",
+   "brand": "Bellroy",
+   "category": "Tech/Electronics",
+   "grams": 485,
+   "priceUSD": 125
+  },
+  {
+   "key": "bellroy tokyo messenger bag 14\"",
+   "alias": "tokyo messenger bag 14\"",
+   "name": "Bellroy Tokyo Messenger Bag 14\"",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 750,
+   "priceUSD": 229
+  },
+  {
+   "key": "bellroy tokyo side bag",
+   "alias": "tokyo side bag",
+   "name": "Bellroy Tokyo Side Bag",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 239,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy tokyo tote",
+   "alias": "tokyo tote",
+   "name": "Bellroy Tokyo Tote",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 650,
+   "priceUSD": 139
+  },
+  {
+   "key": "bellroy tokyo totepack",
+   "alias": "tokyo totepack",
+   "name": "Bellroy Tokyo Totepack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 850,
+   "priceUSD": 199
+  },
+  {
+   "key": "bellroy tokyo totepack compact",
+   "alias": "tokyo totepack compact",
+   "name": "Bellroy Tokyo Totepack Compact",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 700,
+   "priceUSD": 189
+  },
+  {
+   "key": "bellroy tokyo wonder tote 12l",
+   "alias": "tokyo wonder tote 12l",
+   "name": "Bellroy Tokyo Wonder Tote 12L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 600,
+   "priceUSD": 169
+  },
+  {
+   "key": "bellroy tokyo wonder tote 15l",
+   "alias": "tokyo wonder tote 15l",
+   "name": "Bellroy Tokyo Wonder Tote 15L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 700,
+   "priceUSD": 179
+  },
+  {
+   "key": "bellroy tokyo work bag",
+   "alias": "tokyo work bag",
+   "name": "Bellroy Tokyo Work Bag",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 880,
+   "priceUSD": 199
   },
   {
    "key": "bellroy transit backpack 28l",
@@ -2234,6 +3602,339 @@
    "category": "Bags",
    "grams": 980,
    "priceUSD": 259
+  },
+  {
+   "key": "bellroy transit carry-on",
+   "alias": "transit carry-on",
+   "name": "Bellroy Transit Carry-On",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 3100,
+   "priceUSD": 299
+  },
+  {
+   "key": "bellroy transit carry-on large",
+   "alias": "transit carry-on large",
+   "name": "Bellroy Transit Carry-On Large",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 3200,
+   "priceUSD": 329
+  },
+  {
+   "key": "bellroy transit carry-on large removable packing cells",
+   "alias": "transit carry-on large removable packing cells",
+   "name": "Bellroy Transit Carry-On Large Removable Packing Cells",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 155,
+   "priceUSD": 45
+  },
+  {
+   "key": "bellroy transit check-in",
+   "alias": "transit check-in",
+   "name": "Bellroy Transit Check-In",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 3900,
+   "priceUSD": 399
+  },
+  {
+   "key": "bellroy transit check-in large",
+   "alias": "transit check-in large",
+   "name": "Bellroy Transit Check-In Large",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 5000,
+   "priceUSD": 439
+  },
+  {
+   "key": "bellroy transit sling 5l",
+   "alias": "transit sling 5l",
+   "name": "Bellroy Transit Sling 5L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 315,
+   "priceUSD": 119
+  },
+  {
+   "key": "bellroy transit travel pack pro",
+   "alias": "transit travel pack pro",
+   "name": "Bellroy Transit Travel Pack Pro",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 1350,
+   "priceUSD": 319
+  },
+  {
+   "key": "bellroy transit tsa lock",
+   "alias": "transit tsa lock",
+   "name": "Bellroy Transit TSA Lock",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 52,
+   "priceUSD": 29
+  },
+  {
+   "key": "bellroy transit workpack 26l",
+   "alias": "transit workpack 26l",
+   "name": "Bellroy Transit Workpack 26L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 1000,
+   "priceUSD": 199
+  },
+  {
+   "key": "bellroy transit workpack pro 28l",
+   "alias": "transit workpack pro 28l",
+   "name": "Bellroy Transit Workpack Pro 28L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 1100,
+   "priceUSD": 269
+  },
+  {
+   "key": "bellroy travel folio",
+   "alias": "travel folio",
+   "name": "Bellroy Travel Folio",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 221,
+   "priceUSD": 169
+  },
+  {
+   "key": "bellroy travel lock duo",
+   "alias": "travel lock duo",
+   "name": "Bellroy Travel Lock Duo",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 55,
+   "priceUSD": 29
+  },
+  {
+   "key": "bellroy travel wallet",
+   "alias": "travel wallet",
+   "name": "Bellroy Travel Wallet",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 91,
+   "priceUSD": 145
+  },
+  {
+   "key": "bellroy under cover",
+   "alias": "under cover",
+   "name": "Bellroy Under Cover",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 35,
+   "priceUSD": 85
+  },
+  {
+   "key": "bellroy venture camera sling 10l",
+   "alias": "venture camera sling 10l",
+   "name": "Bellroy Venture Camera Sling 10L",
+   "brand": "Bellroy",
+   "category": "Tech/Electronics",
+   "grams": 500,
+   "priceUSD": 189
+  },
+  {
+   "key": "bellroy venture card pocket",
+   "alias": "venture card pocket",
+   "name": "Bellroy Venture Card Pocket",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 40,
+   "priceUSD": 79
+  },
+  {
+   "key": "bellroy venture duffel 55l (previous edition)",
+   "alias": "venture duffel 55l (previous edition)",
+   "name": "Bellroy Venture Duffel 55L (Previous Edition)",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 900,
+   "priceUSD": 229
+  },
+  {
+   "key": "bellroy venture grab pack",
+   "alias": "venture grab pack",
+   "name": "Bellroy Venture Grab Pack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 840,
+   "priceUSD": 155
+  },
+  {
+   "key": "bellroy venture hauler pack",
+   "alias": "venture hauler pack",
+   "name": "Bellroy Venture Hauler Pack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 1500,
+   "priceUSD": 299
+  },
+  {
+   "key": "bellroy venture hip pack",
+   "alias": "venture hip pack",
+   "name": "Bellroy Venture Hip Pack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 173,
+   "priceUSD": 79
+  },
+  {
+   "key": "bellroy venture messenger 16\"",
+   "alias": "venture messenger 16\"",
+   "name": "Bellroy Venture Messenger 16\"",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 920,
+   "priceUSD": 249
+  },
+  {
+   "key": "bellroy venture phone pocket",
+   "alias": "venture phone pocket",
+   "name": "Bellroy Venture Phone Pocket",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 98,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy venture phone pocket plus",
+   "alias": "venture phone pocket plus",
+   "name": "Bellroy Venture Phone Pocket Plus",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 110,
+   "priceUSD": 109
+  },
+  {
+   "key": "bellroy venture pouch",
+   "alias": "venture pouch",
+   "name": "Bellroy Venture Pouch",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 106,
+   "priceUSD": 59
+  },
+  {
+   "key": "bellroy venture ready duffel 55l",
+   "alias": "venture ready duffel 55l",
+   "name": "Bellroy Venture Ready Duffel 55L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 608,
+   "priceUSD": 199
+  },
+  {
+   "key": "bellroy venture ready pack 26l",
+   "alias": "venture ready pack 26l",
+   "name": "Bellroy Venture Ready Pack 26L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 955,
+   "priceUSD": 269
+  },
+  {
+   "key": "bellroy venture ready sling 2.5l",
+   "alias": "venture ready sling 2.5l",
+   "name": "Bellroy Venture Ready Sling 2.5L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 200,
+   "priceUSD": 95
+  },
+  {
+   "key": "bellroy venture sling 6l",
+   "alias": "venture sling 6l",
+   "name": "Bellroy Venture Sling 6L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 344,
+   "priceUSD": 139
+  },
+  {
+   "key": "bellroy venture sling 9l",
+   "alias": "venture sling 9l",
+   "name": "Bellroy Venture Sling 9L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 400,
+   "priceUSD": 149
+  },
+  {
+   "key": "bellroy venture travel crossbody",
+   "alias": "venture travel crossbody",
+   "name": "Bellroy Venture Travel Crossbody",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 245,
+   "priceUSD": 135
+  },
+  {
+   "key": "bellroy venture travel pack 26l",
+   "alias": "venture travel pack 26l",
+   "name": "Bellroy Venture Travel Pack 26L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 1100,
+   "priceUSD": 319
+  },
+  {
+   "key": "bellroy via backpack",
+   "alias": "via backpack",
+   "name": "Bellroy Via Backpack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 550,
+   "priceUSD": 135
+  },
+  {
+   "key": "bellroy via work bag",
+   "alias": "via work bag",
+   "name": "Bellroy Via Work Bag",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 900,
+   "priceUSD": 135
+  },
+  {
+   "key": "bellroy via workpack",
+   "alias": "via workpack",
+   "name": "Bellroy Via Workpack",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 650,
+   "priceUSD": 159
+  },
+  {
+   "key": "bellroy wonder kit",
+   "alias": "wonder kit",
+   "name": "Bellroy Wonder Kit",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 187,
+   "priceUSD": 99
+  },
+  {
+   "key": "bellroy wrist strap",
+   "alias": "wrist strap",
+   "name": "Bellroy Wrist Strap",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 12,
+   "priceUSD": 25
+  },
+  {
+   "key": "bellroy zip wallet",
+   "alias": "zip wallet",
+   "name": "Bellroy Zip Wallet",
+   "brand": "Bellroy",
+   "category": "Tools/EDC",
+   "grams": 91,
+   "priceUSD": 99
   },
   {
    "key": "bernzomatic ts4000 trigger torch",
@@ -2297,6 +3998,33 @@
    "category": "Tools/EDC",
    "grams": 88,
    "priceUSD": 45
+  },
+  {
+   "key": "black diamond deploy run light",
+   "alias": "deploy run light",
+   "name": "Black Diamond Deploy Run Light",
+   "brand": "Black Diamond",
+   "category": "Tools/EDC",
+   "grams": 48,
+   "priceUSD": 70
+  },
+  {
+   "key": "black diamond distance 1500",
+   "alias": "distance 1500",
+   "name": "Black Diamond Distance 1500",
+   "brand": "Black Diamond",
+   "category": "Tools/EDC",
+   "grams": 213,
+   "priceUSD": 250
+  },
+  {
+   "key": "black diamond distance lt 1100",
+   "alias": "distance lt 1100",
+   "name": "Black Diamond Distance LT 1100",
+   "brand": "Black Diamond",
+   "category": "Tools/EDC",
+   "grams": 108,
+   "priceUSD": 150
   },
   {
    "key": "black diamond spot headlamp",
@@ -2515,6 +4243,15 @@
    "priceUSD": 35
   },
   {
+   "key": "camelbak podium chill 21oz bike bottle",
+   "alias": "podium chill 21oz bike bottle",
+   "name": "CamelBak Podium Chill 21oz Bike Bottle",
+   "brand": "CamelBak",
+   "category": "Tools/EDC",
+   "grams": 99,
+   "priceUSD": 20
+  },
+  {
    "key": "caran dache 849",
    "alias": null,
    "name": "Caran dAche 849",
@@ -2722,6 +4459,15 @@
    "priceUSD": 15
   },
   {
+   "key": "cross click classic black ballpoint pen",
+   "alias": "click classic black ballpoint pen",
+   "name": "Cross Click Classic Black Ballpoint Pen",
+   "brand": "Cross",
+   "category": "Tools/EDC",
+   "grams": 15,
+   "priceUSD": 40
+  },
+  {
    "key": "dell xps 13 (2026)",
    "alias": "xps 13 (2026)",
    "name": "Dell XPS 13 (2026)",
@@ -2749,13 +4495,202 @@
    "priceUSD": 35
   },
   {
+   "key": "dji flip",
+   "alias": null,
+   "name": "DJI Flip",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 249,
+   "priceUSD": 439
+  },
+  {
+   "key": "dji mic (2 tx + 1 rx + charging case)",
+   "alias": "mic (2 tx + 1 rx + charging case)",
+   "name": "DJI Mic (2 TX + 1 RX + Charging Case)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 249
+  },
+  {
+   "key": "dji mic 2 (1 tx + 1 rx)",
+   "alias": "mic 2 (1 tx + 1 rx)",
+   "name": "DJI Mic 2 (1 TX + 1 RX)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 129
+  },
+  {
+   "key": "dji mic 2 (2 tx + 1 rx + charging case)",
+   "alias": "mic 2 (2 tx + 1 rx + charging case)",
+   "name": "DJI Mic 2 (2 TX + 1 RX + Charging Case)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 199
+  },
+  {
+   "key": "dji mic 2 transmitter",
+   "alias": "mic 2 transmitter",
+   "name": "DJI Mic 2 Transmitter",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 59
+  },
+  {
+   "key": "dji mic 3 (1 tx + 1 rx)",
+   "alias": "mic 3 (1 tx + 1 rx)",
+   "name": "DJI Mic 3 (1 TX + 1 RX)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 169
+  },
+  {
+   "key": "dji mic 3 (2 tx + 1 rx + charging case)",
+   "alias": "mic 3 (2 tx + 1 rx + charging case)",
+   "name": "DJI Mic 3 (2 TX + 1 RX + Charging Case)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 259
+  },
+  {
+   "key": "dji mic 3 (4 tx + 1 rx + charging case)",
+   "alias": "mic 3 (4 tx + 1 rx + charging case)",
+   "name": "DJI Mic 3 (4 TX + 1 RX + Charging Case)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 427
+  },
+  {
+   "key": "dji mic 3 transmitter",
+   "alias": "mic 3 transmitter",
+   "name": "DJI Mic 3 Transmitter",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 84
+  },
+  {
+   "key": "dji mic mini (1 tx + 1 rx)",
+   "alias": "mic mini (1 tx + 1 rx)",
+   "name": "DJI Mic Mini (1 TX + 1 RX)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 59
+  },
+  {
+   "key": "dji mic mini (2 tx + 1 rx + charging case)",
+   "alias": "mic mini (2 tx + 1 rx + charging case)",
+   "name": "DJI Mic Mini (2 TX + 1 RX + Charging Case)",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 99
+  },
+  {
+   "key": "dji mic mini transmitter",
+   "alias": "mic mini transmitter",
+   "name": "DJI Mic Mini Transmitter",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 33
+  },
+  {
+   "key": "dji mini 3",
+   "alias": "mini 3",
+   "name": "DJI Mini 3",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 248,
+   "priceUSD": 419
+  },
+  {
+   "key": "dji mini 4 pro",
+   "alias": "mini 4 pro",
+   "name": "DJI Mini 4 Pro",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 249,
+   "priceUSD": 759
+  },
+  {
+   "key": "dji neo",
+   "alias": null,
+   "name": "DJI Neo",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 135,
+   "priceUSD": 169
+  },
+  {
+   "key": "dji osmo action 4",
+   "alias": "osmo action 4",
+   "name": "DJI Osmo Action 4",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 145,
+   "priceUSD": 239
+  },
+  {
+   "key": "dji osmo action 5 pro",
+   "alias": "osmo action 5 pro",
+   "name": "DJI Osmo Action 5 Pro",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 146,
+   "priceUSD": 319
+  },
+  {
+   "key": "dji osmo mobile 6",
+   "alias": "osmo mobile 6",
+   "name": "DJI Osmo Mobile 6",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 305,
+   "priceUSD": 109
+  },
+  {
+   "key": "dji osmo mobile 7",
+   "alias": "osmo mobile 7",
+   "name": "DJI Osmo Mobile 7",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 300,
+   "priceUSD": 75
+  },
+  {
+   "key": "dji osmo mobile 7p",
+   "alias": "osmo mobile 7p",
+   "name": "DJI Osmo Mobile 7P",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 368,
+   "priceUSD": 99
+  },
+  {
+   "key": "dji osmo mobile se",
+   "alias": "osmo mobile se",
+   "name": "DJI Osmo Mobile SE",
+   "brand": "DJI",
+   "category": "Tech/Electronics",
+   "grams": 352,
+   "priceUSD": 55
+  },
+  {
    "key": "dji osmo pocket 3",
    "alias": "osmo pocket 3",
    "name": "DJI Osmo Pocket 3",
    "brand": "DJI",
    "category": "Tech/Electronics",
    "grams": 179,
-   "priceUSD": 519
+   "priceUSD": 439
   },
   {
    "key": "dsptch daypack",
@@ -2965,6 +4900,15 @@
    "priceUSD": 701
   },
   {
+   "key": "fairphone fairbuds xl",
+   "alias": "fairbuds xl",
+   "name": "Fairphone Fairbuds XL",
+   "brand": "Fairphone",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 230
+  },
+  {
    "key": "fantom r wallet",
    "alias": null,
    "name": "Fantom R Wallet",
@@ -3001,6 +4945,42 @@
    "priceUSD": 65
   },
   {
+   "key": "fenix e28r v2.0",
+   "alias": "e28r v2.0",
+   "name": "Fenix E28R V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 128,
+   "priceUSD": 65
+  },
+  {
+   "key": "fenix e35r",
+   "alias": null,
+   "name": "Fenix E35R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 148,
+   "priceUSD": 80
+  },
+  {
+   "key": "fenix hm55r renegade",
+   "alias": "hm55r renegade",
+   "name": "Fenix HM55R Renegade",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 105,
+   "priceUSD": 75
+  },
+  {
+   "key": "fenix hm65r v2.0",
+   "alias": "hm65r v2.0",
+   "name": "Fenix HM65R V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 144,
+   "priceUSD": 100
+  },
+  {
    "key": "fenix hm65r-t v2.0",
    "alias": "hm65r-t v2.0",
    "name": "Fenix HM65R-T V2.0",
@@ -3008,6 +4988,15 @@
    "category": "Tools/EDC",
    "grams": 129,
    "priceUSD": 110
+  },
+  {
+   "key": "fenix hp35r",
+   "alias": "hp35r",
+   "name": "Fenix HP35R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 433,
+   "priceUSD": 230
   },
   {
    "key": "fenix ld31 renegade",
@@ -3037,6 +5026,15 @@
    "priceUSD": 90
   },
   {
+   "key": "fenix sw06r",
+   "alias": "sw06r",
+   "name": "Fenix SW06R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 88,
+   "priceUSD": 55
+  },
+  {
    "key": "fenix tk16 v2.0",
    "alias": "tk16 v2.0",
    "name": "Fenix TK16 V2.0",
@@ -3044,6 +5042,24 @@
    "category": "Tools/EDC",
    "grams": 146,
    "priceUSD": 120
+  },
+  {
+   "key": "fenix uc35 v2.0",
+   "alias": "uc35 v2.0",
+   "name": "Fenix UC35 V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 89,
+   "priceUSD": 90
+  },
+  {
+   "key": "field notes everyday inspiration (bellroy leather cover)",
+   "alias": "everyday inspiration (bellroy leather cover)",
+   "name": "Field Notes Everyday Inspiration (Bellroy Leather Cover)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 77,
+   "priceUSD": null
   },
   {
    "key": "field notes original kraft",
@@ -3089,6 +5105,15 @@
    "category": "Bags",
    "grams": 300,
    "priceUSD": 80
+  },
+  {
+   "key": "fjallraven kanken mini",
+   "alias": "kanken mini",
+   "name": "Fjallraven Kanken Mini",
+   "brand": "Fjallraven",
+   "category": "Bags",
+   "grams": 220,
+   "priceUSD": 85
   },
   {
    "key": "flowfold minimalist wallet",
@@ -3298,6 +5323,15 @@
    "priceUSD": 399
   },
   {
+   "key": "goruck bullet ruck 16l + laptop compartment",
+   "alias": "bullet ruck 16l + laptop compartment",
+   "name": "GORUCK Bullet Ruck 16L + Laptop Compartment",
+   "brand": "GORUCK",
+   "category": "Bags",
+   "grams": 1179,
+   "priceUSD": 195
+  },
+  {
    "key": "goruck echo 16l",
    "alias": "echo 16l",
    "name": "GORUCK Echo 16L",
@@ -3323,6 +5357,24 @@
    "category": "Bags",
    "grams": 1406,
    "priceUSD": 395
+  },
+  {
+   "key": "goruck gr2 26l",
+   "alias": "gr2 26l",
+   "name": "GORUCK GR2 26L",
+   "brand": "GORUCK",
+   "category": "Bags",
+   "grams": 1769,
+   "priceUSD": 375
+  },
+  {
+   "key": "goruck packable bullet ruck 15l",
+   "alias": "packable bullet ruck 15l",
+   "name": "GORUCK Packable Bullet Ruck 15L",
+   "brand": "GORUCK",
+   "category": "Bags",
+   "grams": 181,
+   "priceUSD": 75
   },
   {
    "key": "grand seiko sbga413 shunbun",
@@ -3505,6 +5557,15 @@
    "priceUSD": 40
   },
   {
+   "key": "hydro flask standard mouth 24oz",
+   "alias": "standard mouth 24oz",
+   "name": "Hydro Flask Standard Mouth 24oz",
+   "brand": "Hydro Flask",
+   "category": "Tools/EDC",
+   "grams": 377,
+   "priceUSD": 40
+  },
+  {
    "key": "hydro flask wide mouth 32oz",
    "alias": "wide mouth 32oz",
    "name": "Hydro Flask Wide Mouth 32oz",
@@ -3622,6 +5683,15 @@
    "priceUSD": 55
   },
   {
+   "key": "keychron g3 ultra light wireless mouse",
+   "alias": "g3 ultra light wireless mouse",
+   "name": "Keychron G3 Ultra Light Wireless Mouse",
+   "brand": "Keychron",
+   "category": "Tech/Electronics",
+   "grams": 44,
+   "priceUSD": 110
+  },
+  {
    "key": "keychron k2 he wireless magnetic switch keyboard",
    "alias": "k2 he wireless magnetic switch keyboard",
    "name": "Keychron K2 HE Wireless Magnetic Switch Keyboard",
@@ -3640,6 +5710,24 @@
    "priceUSD": 88
   },
   {
+   "key": "keychron m3 mini wireless mouse",
+   "alias": "m3 mini wireless mouse",
+   "name": "Keychron M3 Mini Wireless Mouse",
+   "brand": "Keychron",
+   "category": "Tech/Electronics",
+   "grams": 55,
+   "priceUSD": 63
+  },
+  {
+   "key": "keychron m4 wireless mouse",
+   "alias": "m4 wireless mouse",
+   "name": "Keychron M4 Wireless Mouse",
+   "brand": "Keychron",
+   "category": "Tech/Electronics",
+   "grams": 35,
+   "priceUSD": 60
+  },
+  {
    "key": "keychron m6 wireless mouse",
    "alias": "m6 wireless mouse",
    "name": "Keychron M6 Wireless Mouse",
@@ -3647,6 +5735,15 @@
    "category": "Tech/Electronics",
    "grams": 86,
    "priceUSD": 40
+  },
+  {
+   "key": "keychron m7 wireless mouse",
+   "alias": "m7 wireless mouse",
+   "name": "Keychron M7 Wireless Mouse",
+   "brand": "Keychron",
+   "category": "Tech/Electronics",
+   "grams": 66,
+   "priceUSD": 70
   },
   {
    "key": "keychron q1 he",
@@ -3737,6 +5834,15 @@
    "category": "Tech/Electronics",
    "grams": 174,
    "priceUSD": 180
+  },
+  {
+   "key": "kobo elipsa 2e",
+   "alias": "elipsa 2e",
+   "name": "Kobo Elipsa 2E",
+   "brand": "Kobo",
+   "category": "Tech/Electronics",
+   "grams": 390,
+   "priceUSD": 400
   },
   {
    "key": "kobo libra colour",
@@ -3955,6 +6061,15 @@
    "priceUSD": 50
   },
   {
+   "key": "lamy 2000 ballpoint pen",
+   "alias": "2000 ballpoint pen",
+   "name": "Lamy 2000 Ballpoint Pen",
+   "brand": "Lamy",
+   "category": "Tools/EDC",
+   "grams": 16,
+   "priceUSD": 78
+  },
+  {
    "key": "lamy 2000 fountain pen",
    "alias": "2000 fountain pen",
    "name": "Lamy 2000 Fountain Pen",
@@ -3962,6 +6077,51 @@
    "category": "Tools/EDC",
    "grams": 28,
    "priceUSD": 185
+  },
+  {
+   "key": "lamy aion fountain pen",
+   "alias": "aion fountain pen",
+   "name": "Lamy aion Fountain Pen",
+   "brand": "Lamy",
+   "category": "Tools/EDC",
+   "grams": 30,
+   "priceUSD": 89
+  },
+  {
+   "key": "lamy logo ballpoint pen",
+   "alias": "logo ballpoint pen",
+   "name": "Lamy logo Ballpoint Pen",
+   "brand": "Lamy",
+   "category": "Tools/EDC",
+   "grams": 14,
+   "priceUSD": 12
+  },
+  {
+   "key": "lamy lx fountain pen",
+   "alias": "lx fountain pen",
+   "name": "Lamy Lx Fountain Pen",
+   "brand": "Lamy",
+   "category": "Tools/EDC",
+   "grams": 24,
+   "priceUSD": 70
+  },
+  {
+   "key": "lamy noto ballpoint pen",
+   "alias": "noto ballpoint pen",
+   "name": "Lamy noto Ballpoint Pen",
+   "brand": "Lamy",
+   "category": "Tools/EDC",
+   "grams": 22,
+   "priceUSD": 14
+  },
+  {
+   "key": "lamy pico ballpoint pen",
+   "alias": "pico ballpoint pen",
+   "name": "Lamy pico Ballpoint Pen",
+   "brand": "Lamy",
+   "category": "Tools/EDC",
+   "grams": 22,
+   "priceUSD": 49
   },
   {
    "key": "lamy safari",
@@ -4034,6 +6194,15 @@
    "category": "Tools/EDC",
    "grams": 380,
    "priceUSD": 105
+  },
+  {
+   "key": "ledlenser mh8",
+   "alias": null,
+   "name": "Ledlenser MH8",
+   "brand": "Ledlenser",
+   "category": "Tools/EDC",
+   "grams": 139,
+   "priceUSD": 80
   },
   {
    "key": "ledlenser p5r",
@@ -4205,6 +6374,15 @@
    "category": "Tools/EDC",
    "grams": 118,
    "priceUSD": 20
+  },
+  {
+   "key": "maglite ml300l 2d",
+   "alias": "ml300l 2d",
+   "name": "Maglite ML300L 2D",
+   "brand": "Maglite",
+   "category": "Tools/EDC",
+   "grams": 567,
+   "priceUSD": 43
   },
   {
    "key": "magpul daka utility organizer",
@@ -4531,6 +6709,15 @@
    "priceUSD": 45
   },
   {
+   "key": "mystery ranch 2 day assault",
+   "alias": "2 day assault",
+   "name": "Mystery Ranch 2 Day Assault",
+   "brand": "Mystery Ranch",
+   "category": "Bags",
+   "grams": 1361,
+   "priceUSD": 249
+  },
+  {
    "key": "mystery ranch urban assault 21",
    "alias": "urban assault 21",
    "name": "Mystery Ranch Urban Assault 21",
@@ -4547,6 +6734,24 @@
    "category": "Bags",
    "grams": 1180,
    "priceUSD": 189
+  },
+  {
+   "key": "nalgene narrow mouth 32oz",
+   "alias": "narrow mouth 32oz",
+   "name": "Nalgene Narrow Mouth 32oz",
+   "brand": "Nalgene",
+   "category": "Tools/EDC",
+   "grams": 177,
+   "priceUSD": 17
+  },
+  {
+   "key": "nalgene wide mouth 16oz",
+   "alias": "wide mouth 16oz",
+   "name": "Nalgene Wide Mouth 16oz",
+   "brand": "Nalgene",
+   "category": "Tools/EDC",
+   "grams": 89,
+   "priceUSD": 15
   },
   {
    "key": "nalgene wide mouth 32oz",
@@ -5185,7 +7390,7 @@
    "brand": "Nomad",
    "category": "Tech/Electronics",
    "grams": 250,
-   "priceUSD": 130
+   "priceUSD": 159
   },
   {
    "key": "nomad bifold wallet (horween, black)",
@@ -5239,7 +7444,7 @@
    "brand": "Nomad",
    "category": "Tech/Electronics",
    "grams": 875,
-   "priceUSD": 159
+   "priceUSD": 169
   },
   {
    "key": "nomad tracking card air",
@@ -5348,6 +7553,15 @@
    "category": "Tech/Electronics",
    "grams": null,
    "priceUSD": 150
+  },
+  {
+   "key": "nothing headphone (1) pro",
+   "alias": "headphone (1) pro",
+   "name": "Nothing Headphone (1) Pro",
+   "brand": "Nothing",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 399
   },
   {
    "key": "nothing phone (3)",
@@ -5656,6 +7870,15 @@
    "priceUSD": 85
   },
   {
+   "key": "osprey daylite tote pack",
+   "alias": "daylite tote pack",
+   "name": "Osprey Daylite Tote Pack",
+   "brand": "Osprey",
+   "category": "Bags",
+   "grams": 534,
+   "priceUSD": 95
+  },
+  {
    "key": "oura ring 4",
    "alias": null,
    "name": "Oura Ring 4",
@@ -5825,6 +8048,15 @@
    "category": "Bags",
    "grams": 680,
    "priceUSD": 169
+  },
+  {
+   "key": "patagonia terravia mini hip pack 1l",
+   "alias": "terravia mini hip pack 1l",
+   "name": "Patagonia Terravia Mini Hip Pack 1L",
+   "brand": "Patagonia",
+   "category": "Bags",
+   "grams": 111,
+   "priceUSD": 39
   },
   {
    "key": "peak design everyday backpack 20l",
@@ -6124,6 +8356,24 @@
    "priceUSD": 10
   },
   {
+   "key": "quiet carry the q3 key organizer",
+   "alias": "the q3 key organizer",
+   "name": "Quiet Carry The Q3 Key Organizer",
+   "brand": "Quiet Carry",
+   "category": "Tools/EDC",
+   "grams": 62,
+   "priceUSD": 85
+  },
+  {
+   "key": "quiet carry the shorty g2 key organizer",
+   "alias": "the shorty g2 key organizer",
+   "name": "Quiet Carry The Shorty G2 Key Organizer",
+   "brand": "Quiet Carry",
+   "category": "Tools/EDC",
+   "grams": 45,
+   "priceUSD": 85
+  },
+  {
    "key": "quiet carry the shorty only key organizer",
    "alias": "the shorty only key organizer",
    "name": "Quiet Carry The Shorty Only Key Organizer",
@@ -6178,6 +8428,15 @@
    "priceUSD": 183
   },
   {
+   "key": "redmagic 11s pro",
+   "alias": "11s pro",
+   "name": "REDMAGIC 11S Pro",
+   "brand": "REDMAGIC",
+   "category": "Tech/Electronics",
+   "grams": 230,
+   "priceUSD": 799
+  },
+  {
    "key": "retro 51 tornado classic rollerball",
    "alias": "tornado classic rollerball",
    "name": "Retro 51 Tornado Classic Rollerball",
@@ -6185,6 +8444,24 @@
    "category": "Tools/EDC",
    "grams": 35,
    "priceUSD": 35
+  },
+  {
+   "key": "retro 51 tornado fountain pen jefferson",
+   "alias": "tornado fountain pen jefferson",
+   "name": "Retro 51 Tornado Fountain Pen Jefferson",
+   "brand": "Retro 51",
+   "category": "Tools/EDC",
+   "grams": 34,
+   "priceUSD": 108
+  },
+  {
+   "key": "retro 51 tornado pencil stainless",
+   "alias": "tornado pencil stainless",
+   "name": "Retro 51 Tornado Pencil Stainless",
+   "brand": "Retro 51",
+   "category": "Tools/EDC",
+   "grams": 34,
+   "priceUSD": 64
   },
   {
    "key": "rhodia webnotebook a5",
@@ -6466,6 +8743,24 @@
    "priceUSD": 875
   },
   {
+   "key": "satechi slim x1 bluetooth backlit keyboard",
+   "alias": "slim x1 bluetooth backlit keyboard",
+   "name": "Satechi Slim X1 Bluetooth Backlit Keyboard",
+   "brand": "Satechi",
+   "category": "Tech/Electronics",
+   "grams": 295,
+   "priceUSD": 70
+  },
+  {
+   "key": "satechi slim x2 bluetooth backlit keyboard",
+   "alias": "slim x2 bluetooth backlit keyboard",
+   "name": "Satechi Slim X2 Bluetooth Backlit Keyboard",
+   "brand": "Satechi",
+   "category": "Tech/Electronics",
+   "grams": 365,
+   "priceUSD": 80
+  },
+  {
    "key": "satechi usb-c multiport adapter v3",
    "alias": "usb-c multiport adapter v3",
    "name": "Satechi USB-C Multiport Adapter V3",
@@ -6491,6 +8786,33 @@
    "category": "Tools/EDC",
    "grams": 84,
    "priceUSD": 35
+  },
+  {
+   "key": "schon dsgn faceted titanium shell fountain pen",
+   "alias": "faceted titanium shell fountain pen",
+   "name": "Schon DSGN Faceted Titanium Shell Fountain Pen",
+   "brand": "Schon DSGN",
+   "category": "Tools/EDC",
+   "grams": 32,
+   "priceUSD": 920
+  },
+  {
+   "key": "schon dsgn monoc evo fountain pen",
+   "alias": "monoc evo fountain pen",
+   "name": "Schon DSGN Monoc Evo Fountain Pen",
+   "brand": "Schon DSGN",
+   "category": "Tools/EDC",
+   "grams": 34,
+   "priceUSD": 1100
+  },
+  {
+   "key": "schon dsgn smoltem pocket fountain pen",
+   "alias": "smoltem pocket fountain pen",
+   "name": "Schon DSGN Smoltem Pocket Fountain Pen",
+   "brand": "Schon DSGN",
+   "category": "Tools/EDC",
+   "grams": 11,
+   "priceUSD": 240
   },
   {
    "key": "secrid miniwallet",
@@ -6538,6 +8860,33 @@
    "priceUSD": 499
   },
   {
+   "key": "sennheiser accentum plus wireless",
+   "alias": "accentum plus wireless",
+   "name": "Sennheiser ACCENTUM Plus Wireless",
+   "brand": "Sennheiser",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 130
+  },
+  {
+   "key": "sennheiser accentum true wireless",
+   "alias": "accentum true wireless",
+   "name": "Sennheiser ACCENTUM True Wireless",
+   "brand": "Sennheiser",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 100
+  },
+  {
+   "key": "sennheiser accentum wireless",
+   "alias": "accentum wireless",
+   "name": "Sennheiser ACCENTUM Wireless",
+   "brand": "Sennheiser",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 100
+  },
+  {
    "key": "sennheiser momentum 4",
    "alias": "momentum 4",
    "name": "Sennheiser Momentum 4",
@@ -6553,7 +8902,7 @@
    "brand": "Sharge",
    "category": "Tech/Electronics",
    "grams": 255,
-   "priceUSD": 99
+   "priceUSD": 89
   },
   {
    "key": "sharge aeromag 5k power bank (20w, 5k, qi2 15w, 0.33\" ultra-thin)",
@@ -6571,7 +8920,7 @@
    "brand": "Sharge",
    "category": "Tech/Electronics",
    "grams": 77,
-   "priceUSD": 20
+   "priceUSD": 18
   },
   {
    "key": "sharge carbonmag (10k) power bank (20w, 10k)",
@@ -6607,7 +8956,7 @@
    "brand": "Sharge",
    "category": "Tech/Electronics",
    "grams": 210,
-   "priceUSD": 40
+   "priceUSD": 30
   },
   {
    "key": "sharge flow 3 power bank (45w, 10k, built-in cable)",
@@ -6706,7 +9055,7 @@
    "brand": "Sharge",
    "category": "Tech/Electronics",
    "grams": 255,
-   "priceUSD": 60
+   "priceUSD": 56
   },
   {
    "key": "sharge pouch mini power bank (30w, 10k, built-in cable)",
@@ -6724,7 +9073,7 @@
    "brand": "Sharge",
    "category": "Tech/Electronics",
    "grams": 220,
-   "priceUSD": 37
+   "priceUSD": 33
   },
   {
    "key": "sharge retractable 65 charger (65w, 2 ports, built-in retractable cable)",
@@ -6751,7 +9100,7 @@
    "brand": "Sharge",
    "category": "Tech/Electronics",
    "grams": 140,
-   "priceUSD": 40
+   "priceUSD": 38
   },
   {
    "key": "shargeek 100 (100w, 25k, dc ports)",
@@ -6799,6 +9148,24 @@
    "priceUSD": 199
   },
   {
+   "key": "shokz opendots 2",
+   "alias": "opendots 2",
+   "name": "Shokz OpenDots 2",
+   "brand": "Shokz",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 200
+  },
+  {
+   "key": "shokz opendots one",
+   "alias": "opendots one",
+   "name": "Shokz OpenDots ONE",
+   "brand": "Shokz",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 200
+  },
+  {
    "key": "shokz openrun pro 2",
    "alias": "openrun pro 2",
    "name": "Shokz OpenRun Pro 2",
@@ -6826,6 +9193,51 @@
    "priceUSD": 25
   },
   {
+   "key": "skullcandy dime 3",
+   "alias": "dime 3",
+   "name": "Skullcandy Dime 3",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 35
+  },
+  {
+   "key": "skullcandy dime 360",
+   "alias": "dime 360",
+   "name": "Skullcandy Dime 360",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 60
+  },
+  {
+   "key": "skullcandy dime evo",
+   "alias": "dime evo",
+   "name": "Skullcandy Dime Evo",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 50
+  },
+  {
+   "key": "skullcandy ecobuds",
+   "alias": "ecobuds",
+   "name": "Skullcandy EcoBuds",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 25
+  },
+  {
+   "key": "skullcandy jib usb c",
+   "alias": "jib usb c",
+   "name": "Skullcandy Jib USB C",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 10
+  },
+  {
    "key": "skullcandy method 360 anc",
    "alias": "method 360 anc",
    "name": "Skullcandy Method 360 ANC",
@@ -6833,6 +9245,78 @@
    "category": "Tech/Electronics",
    "grams": null,
    "priceUSD": 130
+  },
+  {
+   "key": "skullcandy push 540 open",
+   "alias": "push 540 open",
+   "name": "Skullcandy Push 540 Open",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 100
+  },
+  {
+   "key": "skullcandy push 720 open",
+   "alias": "push 720 open",
+   "name": "Skullcandy Push 720 Open",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 100
+  },
+  {
+   "key": "skullcandy push anc active",
+   "alias": "push anc active",
+   "name": "Skullcandy Push ANC Active",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 80
+  },
+  {
+   "key": "skullcandy push play active",
+   "alias": "push play active",
+   "name": "Skullcandy Push Play Active",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 65
+  },
+  {
+   "key": "skullcandy sesh anc active",
+   "alias": "sesh anc active",
+   "name": "Skullcandy Sesh ANC Active",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 95
+  },
+  {
+   "key": "skullcandy set",
+   "alias": null,
+   "name": "Skullcandy Set",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 25
+  },
+  {
+   "key": "skullcandy smokin' buds",
+   "alias": "smokin' buds",
+   "name": "Skullcandy Smokin' Buds",
+   "brand": "Skullcandy",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 28
+  },
+  {
+   "key": "sofirn sc13",
+   "alias": null,
+   "name": "Sofirn SC13",
+   "brand": "Sofirn",
+   "category": "Tools/EDC",
+   "grams": 40,
+   "priceUSD": 19
   },
   {
    "key": "sofirn sc21 pro",
@@ -6932,6 +9416,15 @@
    "category": "Tools/EDC",
    "grams": 85,
    "priceUSD": 35
+  },
+  {
+   "key": "stanley classic legendary bottle 1.0 qt",
+   "alias": "classic legendary bottle 1.0 qt",
+   "name": "Stanley Classic Legendary Bottle 1.0 qt",
+   "brand": "Stanley",
+   "category": "Tools/EDC",
+   "grams": 635,
+   "priceUSD": 39
   },
   {
    "key": "stanley quencher h2.0 flowstate 30oz",
@@ -7060,6 +9553,24 @@
    "priceUSD": 179
   },
   {
+   "key": "tactile turn c510 bronze bolt action pen",
+   "alias": "c510 bronze bolt action pen",
+   "name": "Tactile Turn C510 Bronze Bolt Action Pen",
+   "brand": "Tactile Turn",
+   "category": "Tools/EDC",
+   "grams": 57,
+   "priceUSD": 99
+  },
+  {
+   "key": "tactile turn polished bolt action pen",
+   "alias": "polished bolt action pen",
+   "name": "Tactile Turn Polished Bolt Action Pen",
+   "brand": "Tactile Turn",
+   "category": "Tools/EDC",
+   "grams": 37,
+   "priceUSD": 139
+  },
+  {
    "key": "tactile turn side click",
    "alias": "side click",
    "name": "Tactile Turn Side Click",
@@ -7076,6 +9587,15 @@
    "category": "Tools/EDC",
    "grams": 26,
    "priceUSD": 149
+  },
+  {
+   "key": "tactile turn stainless steel bolt action pen",
+   "alias": "stainless steel bolt action pen",
+   "name": "Tactile Turn Stainless Steel Bolt Action Pen",
+   "brand": "Tactile Turn",
+   "category": "Tools/EDC",
+   "grams": 54,
+   "priceUSD": 99
   },
   {
    "key": "takeya originals water bottle with spout lid 18oz",
@@ -7177,6 +9697,24 @@
    "priceUSD": 60
   },
   {
+   "key": "thermos icon 40oz beverage bottle",
+   "alias": "icon 40oz beverage bottle",
+   "name": "Thermos ICON 40oz Beverage Bottle",
+   "brand": "Thermos",
+   "category": "Tools/EDC",
+   "grams": 907,
+   "priceUSD": 45
+  },
+  {
+   "key": "thermos stainless king 40oz beverage bottle",
+   "alias": "stainless king 40oz beverage bottle",
+   "name": "Thermos Stainless King 40oz Beverage Bottle",
+   "brand": "Thermos",
+   "category": "Tools/EDC",
+   "grams": 726,
+   "priceUSD": 40
+  },
+  {
    "key": "thrunite t1s v2",
    "alias": "t1s v2",
    "name": "Thrunite T1S V2",
@@ -7202,6 +9740,15 @@
    "category": "Tools/EDC",
    "grams": 19,
    "priceUSD": 22
+  },
+  {
+   "key": "thule aion 40l",
+   "alias": "aion 40l",
+   "name": "Thule Aion 40L",
+   "brand": "Thule",
+   "category": "Bags",
+   "grams": 1452,
+   "priceUSD": 210
   },
   {
    "key": "tile pro",
@@ -7276,6 +9823,15 @@
    "priceUSD": 650
   },
   {
+   "key": "tom bihn aeronaut 30",
+   "alias": "aeronaut 30",
+   "name": "Tom Bihn Aeronaut 30",
+   "brand": "Tom Bihn",
+   "category": "Bags",
+   "grams": 1170,
+   "priceUSD": 345
+  },
+  {
    "key": "tom bihn bantam",
    "alias": "bantam",
    "name": "Tom Bihn Bantam",
@@ -7292,6 +9848,24 @@
    "category": "Bags",
    "grams": 1304,
    "priceUSD": 365
+  },
+  {
+   "key": "tom bihn cadet",
+   "alias": "cadet",
+   "name": "Tom Bihn Cadet",
+   "brand": "Tom Bihn",
+   "category": "Bags",
+   "grams": 710,
+   "priceUSD": 200
+  },
+  {
+   "key": "tom bihn daylight backpack",
+   "alias": "daylight backpack",
+   "name": "Tom Bihn Daylight Backpack",
+   "brand": "Tom Bihn",
+   "category": "Bags",
+   "grams": 510,
+   "priceUSD": 125
   },
   {
    "key": "tom bihn marathon messenger",
@@ -7348,6 +9922,15 @@
    "priceUSD": 120
   },
   {
+   "key": "tom bihn side effect",
+   "alias": "side effect",
+   "name": "Tom Bihn Side Effect",
+   "brand": "Tom Bihn",
+   "category": "Bags",
+   "grams": 195,
+   "priceUSD": 70
+  },
+  {
    "key": "tom bihn synapse 25",
    "alias": "synapse 25",
    "name": "Tom Bihn Synapse 25",
@@ -7363,7 +9946,7 @@
    "brand": "Tom Bihn",
    "category": "Bags",
    "grams": 930,
-   "priceUSD": 270
+   "priceUSD": 345
   },
   {
    "key": "tom bihn synik 30",
@@ -7372,7 +9955,7 @@
    "brand": "Tom Bihn",
    "category": "Bags",
    "grams": 908,
-   "priceUSD": 319
+   "priceUSD": 355
   },
   {
    "key": "topo designs global travel bag 30l",
@@ -7390,7 +9973,7 @@
    "brand": "Topo Designs",
    "category": "Bags",
    "grams": 680,
-   "priceUSD": 179
+   "priceUSD": 99
   },
   {
    "key": "travelers notebook",
@@ -7402,13 +9985,22 @@
    "priceUSD": 60
   },
   {
+   "key": "trayvax armored summit",
+   "alias": "armored summit",
+   "name": "Trayvax Armored Summit",
+   "brand": "Trayvax",
+   "category": "Tools/EDC",
+   "grams": 95,
+   "priceUSD": 30
+  },
+  {
    "key": "trayvax contour wallet",
    "alias": "contour wallet",
    "name": "Trayvax Contour Wallet",
    "brand": "Trayvax",
    "category": "Tools/EDC",
    "grams": 45,
-   "priceUSD": 70
+   "priceUSD": 135
   },
   {
    "key": "trayvax element",
@@ -7426,7 +10018,7 @@
    "brand": "Trayvax",
    "category": "Tools/EDC",
    "grams": 44,
-   "priceUSD": 55
+   "priceUSD": 35
   },
   {
    "key": "tudor black bay 58",
@@ -7492,6 +10084,15 @@
    "priceUSD": 12
   },
   {
+   "key": "uco titan fire striker ferro rod",
+   "alias": "titan fire striker ferro rod",
+   "name": "UCO Titan Fire Striker Ferro Rod",
+   "brand": "UCO",
+   "category": "Tools/EDC",
+   "grams": 96,
+   "priceUSD": 20
+  },
+  {
    "key": "ugreen nexode 300w gan",
    "alias": "nexode 300w gan",
    "name": "UGREEN Nexode 300W GaN",
@@ -7537,6 +10138,60 @@
    "priceUSD": 5
   },
   {
+   "key": "unihertz atom",
+   "alias": null,
+   "name": "Unihertz Atom",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 108,
+   "priceUSD": 200
+  },
+  {
+   "key": "unihertz atom l",
+   "alias": "atom l",
+   "name": "Unihertz Atom L",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 225,
+   "priceUSD": 200
+  },
+  {
+   "key": "unihertz atom xl",
+   "alias": "atom xl",
+   "name": "Unihertz Atom XL",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 225,
+   "priceUSD": 290
+  },
+  {
+   "key": "unihertz jelly 2",
+   "alias": "jelly 2",
+   "name": "Unihertz Jelly 2",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 107,
+   "priceUSD": 190
+  },
+  {
+   "key": "unihertz jelly 2e",
+   "alias": "jelly 2e",
+   "name": "Unihertz Jelly 2E",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 110,
+   "priceUSD": 160
+  },
+  {
+   "key": "unihertz jelly pro",
+   "alias": "jelly pro",
+   "name": "Unihertz Jelly Pro",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 60,
+   "priceUSD": 100
+  },
+  {
    "key": "unihertz jelly star",
    "alias": "jelly star",
    "name": "Unihertz Jelly Star",
@@ -7546,6 +10201,60 @@
    "priceUSD": 220
   },
   {
+   "key": "unihertz luna",
+   "alias": null,
+   "name": "Unihertz Luna",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 298,
+   "priceUSD": 270
+  },
+  {
+   "key": "unihertz tank 2 pro",
+   "alias": "tank 2 pro",
+   "name": "Unihertz Tank 2 Pro",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 688,
+   "priceUSD": 440
+  },
+  {
+   "key": "unihertz tank 3 pro",
+   "alias": "tank 3 pro",
+   "name": "Unihertz Tank 3 Pro",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 696,
+   "priceUSD": 600
+  },
+  {
+   "key": "unihertz tank 4 pro",
+   "alias": "tank 4 pro",
+   "name": "Unihertz Tank 4 Pro",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 530,
+   "priceUSD": 710
+  },
+  {
+   "key": "unihertz tank mini",
+   "alias": "tank mini",
+   "name": "Unihertz Tank Mini",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 240,
+   "priceUSD": 250
+  },
+  {
+   "key": "unihertz titan",
+   "alias": "titan",
+   "name": "Unihertz Titan",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 303,
+   "priceUSD": 320
+  },
+  {
    "key": "unihertz titan 2 elite",
    "alias": "titan 2 elite",
    "name": "Unihertz Titan 2 Elite",
@@ -7553,6 +10262,33 @@
    "category": "Tech/Electronics",
    "grams": 163,
    "priceUSD": 490
+  },
+  {
+   "key": "unihertz titan 2 elite pro",
+   "alias": "titan 2 elite pro",
+   "name": "Unihertz Titan 2 Elite Pro",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 163,
+   "priceUSD": 580
+  },
+  {
+   "key": "unihertz titan pocket",
+   "alias": "titan pocket",
+   "name": "Unihertz Titan Pocket",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 214,
+   "priceUSD": 290
+  },
+  {
+   "key": "unihertz titan slim",
+   "alias": "titan slim",
+   "name": "Unihertz Titan Slim",
+   "brand": "Unihertz",
+   "category": "Tech/Electronics",
+   "grams": 204,
+   "priceUSD": 300
   },
   {
    "key": "valve steam deck oled",
@@ -7681,6 +10417,15 @@
    "priceUSD": 40
   },
   {
+   "key": "wurkkos ts11",
+   "alias": null,
+   "name": "Wurkkos TS11",
+   "brand": "Wurkkos",
+   "category": "Tools/EDC",
+   "grams": 89,
+   "priceUSD": 30
+  },
+  {
    "key": "xiaomi 15 ultra",
    "alias": "15 ultra",
    "name": "Xiaomi 15 Ultra",
@@ -7762,6 +10507,15 @@
    "priceUSD": 95
   },
   {
+   "key": "zippo classic brushed chrome",
+   "alias": "classic brushed chrome",
+   "name": "Zippo Classic Brushed Chrome",
+   "brand": "Zippo",
+   "category": "Tools/EDC",
+   "grams": 55,
+   "priceUSD": 21
+  },
+  {
    "key": "zippo classic chrome",
    "alias": "classic chrome",
    "name": "Zippo Classic Chrome",
@@ -7778,6 +10532,15 @@
    "category": "Tools/EDC",
    "grams": 57,
    "priceUSD": 18
+  },
+  {
+   "key": "zippo slim brushed chrome",
+   "alias": "slim brushed chrome",
+   "name": "Zippo Slim Brushed Chrome",
+   "brand": "Zippo",
+   "category": "Tools/EDC",
+   "grams": 43,
+   "priceUSD": 21
   },
   {
    "key": "zojirushi sm-ta48 tumbler",
