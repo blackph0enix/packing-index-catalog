@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-23T11:20:36-04:00",
- "count": 1226,
+ "generatedAt": "2026-10-23T11:31:08-04:00",
+ "count": 1231,
  "items": [
   {
    "key": "8bitdo ultimate 2 wireless controller",
@@ -8140,6 +8140,15 @@
    "priceUSD": 349
   },
   {
+   "key": "oura ring 4 ceramic",
+   "alias": null,
+   "name": "Oura Ring 4 Ceramic",
+   "brand": "Oura",
+   "category": "Tools/EDC",
+   "grams": 7,
+   "priceUSD": 399
+  },
+  {
    "key": "owala freesip 24oz",
    "alias": "freesip 24oz",
    "name": "Owala FreeSip 24oz",
@@ -8786,6 +8795,33 @@
    "category": "Tools/EDC",
    "grams": 3,
    "priceUSD": 299
+  },
+  {
+   "key": "ringconn gen 2 air",
+   "alias": "gen 2 air",
+   "name": "RingConn Gen 2 Air",
+   "brand": "RingConn",
+   "category": "Tools/EDC",
+   "grams": 3,
+   "priceUSD": 199
+  },
+  {
+   "key": "ringconn gen 2 rose gold edition",
+   "alias": "gen 2 rose gold edition",
+   "name": "RingConn Gen 2 Rose Gold Edition",
+   "brand": "RingConn",
+   "category": "Tools/EDC",
+   "grams": 3,
+   "priceUSD": 399
+  },
+  {
+   "key": "ringconn gen 3",
+   "alias": "gen 3",
+   "name": "RingConn Gen 3",
+   "brand": "RingConn",
+   "category": "Tools/EDC",
+   "grams": 3,
+   "priceUSD": 349
   },
   {
    "key": "rite in the rain pocket notebook 3-pack",
@@ -10541,6 +10577,15 @@
    "category": "Tools/EDC",
    "grams": 3,
    "priceUSD": 349
+  },
+  {
+   "key": "ultrahuman ring pro",
+   "alias": "ring pro",
+   "name": "Ultrahuman Ring PRO",
+   "brand": "Ultrahuman",
+   "category": "Tools/EDC",
+   "grams": 4,
+   "priceUSD": 479
   },
   {
    "key": "uni-ball jetstream 0.7mm",
