@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-23T11:31:08-04:00",
- "count": 1231,
+ "generatedAt": "2026-10-23T11:40:51-04:00",
+ "count": 1232,
  "items": [
   {
    "key": "8bitdo ultimate 2 wireless controller",
@@ -8146,6 +8146,15 @@
    "brand": "Oura",
    "category": "Tools/EDC",
    "grams": 7,
+   "priceUSD": 399
+  },
+  {
+   "key": "oura ring 5",
+   "alias": null,
+   "name": "Oura Ring 5",
+   "brand": "Oura",
+   "category": "Tools/EDC",
+   "grams": 2,
    "priceUSD": 399
   },
   {
