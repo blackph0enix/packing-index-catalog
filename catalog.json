@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-23T11:06:40-04:00",
- "count": 1174,
+ "generatedAt": "2026-10-23T11:20:36-04:00",
+ "count": 1226,
  "items": [
   {
    "key": "8bitdo ultimate 2 wireless controller",
@@ -1291,6 +1291,15 @@
    "priceUSD": 30
   },
   {
+   "key": "anker nano power bank (22.5w, built-in usb-c connector)",
+   "alias": "nano power bank (22.5w, built-in usb-c connector)",
+   "name": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector)",
+   "brand": "Anker",
+   "category": "Tech/Electronics",
+   "grams": 100,
+   "priceUSD": 30
+  },
+  {
    "key": "anker nano power bank (30w, built-in usb-c cable)",
    "alias": "nano power bank (30w, built-in usb-c cable)",
    "name": "Anker Nano Power Bank (30W, Built-In USB-C Cable)",
@@ -1325,6 +1334,24 @@
    "category": "Tech/Electronics",
    "grams": 652,
    "priceUSD": 100
+  },
+  {
+   "key": "anker prime power bank (20k, 220w)",
+   "alias": "prime power bank (20k, 220w)",
+   "name": "Anker Prime Power Bank (20K, 220W)",
+   "brand": "Anker",
+   "category": "Tech/Electronics",
+   "grams": 510,
+   "priceUSD": 180
+  },
+  {
+   "key": "anker prime power bank (26k, 300w)",
+   "alias": "prime power bank (26k, 300w)",
+   "name": "Anker Prime Power Bank (26K, 300W)",
+   "brand": "Anker",
+   "category": "Tech/Electronics",
+   "grams": 600,
+   "priceUSD": 230
   },
   {
    "key": "anker prime power bank 20,000 mah",
@@ -2299,6 +2326,24 @@
    "priceUSD": 799
   },
   {
+   "key": "arc'teryx mantis 16 backpack",
+   "alias": "mantis 16 backpack",
+   "name": "Arc'teryx Mantis 16 Backpack",
+   "brand": "Arc'teryx",
+   "category": "Bags",
+   "grams": 700,
+   "priceUSD": 130
+  },
+  {
+   "key": "arc'teryx mantis 2 waist pack",
+   "alias": "mantis 2 waist pack",
+   "name": "Arc'teryx Mantis 2 Waist Pack",
+   "brand": "Arc'teryx",
+   "category": "Bags",
+   "grams": 190,
+   "priceUSD": 50
+  },
+  {
    "key": "arcteryx granville 16 backpack",
    "alias": "granville 16 backpack",
    "name": "Arcteryx Granville 16 Backpack",
@@ -2369,6 +2414,69 @@
    "category": "Tech/Electronics",
    "grams": 756,
    "priceUSD": 1300
+  },
+  {
+   "key": "audio-technica ath-m20xbt",
+   "alias": "ath-m20xbt",
+   "name": "Audio-Technica ATH-M20xBT",
+   "brand": "Audio-Technica",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 89
+  },
+  {
+   "key": "audio-technica ath-m30x",
+   "alias": "ath-m30x",
+   "name": "Audio-Technica ATH-M30x",
+   "brand": "Audio-Technica",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 79
+  },
+  {
+   "key": "audio-technica ath-m40x",
+   "alias": "ath-m40x",
+   "name": "Audio-Technica ATH-M40x",
+   "brand": "Audio-Technica",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 109
+  },
+  {
+   "key": "audio-technica ath-m50x",
+   "alias": "ath-m50x",
+   "name": "Audio-Technica ATH-M50x",
+   "brand": "Audio-Technica",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 159
+  },
+  {
+   "key": "audio-technica ath-m50xbt2",
+   "alias": "ath-m50xbt2",
+   "name": "Audio-Technica ATH-M50xBT2",
+   "brand": "Audio-Technica",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 219
+  },
+  {
+   "key": "audio-technica ath-m70x",
+   "alias": "ath-m70x",
+   "name": "Audio-Technica ATH-M70x",
+   "brand": "Audio-Technica",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 329
+  },
+  {
+   "key": "audio-technica ath-s220bt",
+   "alias": "ath-s220bt",
+   "name": "Audio-Technica ATH-S220BT",
+   "brand": "Audio-Technica",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 64
   },
   {
    "key": "baltic aquascaphe classic",
@@ -3964,6 +4072,24 @@
    "priceUSD": 400
   },
   {
+   "key": "beyerdynamic dt 700 pro x",
+   "alias": "dt 700 pro x",
+   "name": "Beyerdynamic DT 700 PRO X",
+   "brand": "Beyerdynamic",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 280
+  },
+  {
+   "key": "beyerdynamic dt 770 pro",
+   "alias": "dt 770 pro",
+   "name": "Beyerdynamic DT 770 PRO",
+   "brand": "Beyerdynamic",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 200
+  },
+  {
    "key": "bic classic mini",
    "alias": "classic mini",
    "name": "BIC Classic Mini",
@@ -4369,6 +4495,15 @@
    "priceUSD": 750
   },
   {
+   "key": "chrome industries barrage 18l pack",
+   "alias": "barrage 18l pack",
+   "name": "Chrome Industries Barrage 18L Pack",
+   "brand": "Chrome Industries",
+   "category": "Bags",
+   "grams": 1100,
+   "priceUSD": 160
+  },
+  {
    "key": "chrome industries citizen messenger",
    "alias": "citizen messenger",
    "name": "Chrome Industries Citizen Messenger",
@@ -4441,6 +4576,15 @@
    "priceUSD": 229
   },
   {
+   "key": "costa ballast",
+   "alias": "ballast",
+   "name": "Costa Ballast",
+   "brand": "Costa",
+   "category": "Tools/EDC",
+   "grams": 16,
+   "priceUSD": 201
+  },
+  {
    "key": "craighill swingtop lighter",
    "alias": "swingtop lighter",
    "name": "Craighill Swingtop Lighter",
@@ -4466,6 +4610,15 @@
    "category": "Tools/EDC",
    "grams": 15,
    "priceUSD": 40
+  },
+  {
+   "key": "dango t01 ultem",
+   "alias": "t01 ultem",
+   "name": "Dango T01 ULTEM",
+   "brand": "Dango",
+   "category": "Tools/EDC",
+   "grams": 57,
+   "priceUSD": 119
   },
   {
    "key": "dell xps 13 (2026)",
@@ -4700,6 +4853,15 @@
    "category": "Bags",
    "grams": 1000,
    "priceUSD": 170
+  },
+  {
+   "key": "dsptch slingpack dyneema",
+   "alias": "slingpack dyneema",
+   "name": "DSPTCH Slingpack Dyneema",
+   "brand": "DSPTCH",
+   "category": "Bags",
+   "grams": 851,
+   "priceUSD": 298
   },
   {
    "key": "eagle creek pack-it gear cube s",
@@ -5458,6 +5620,15 @@
    "priceUSD": 545
   },
   {
+   "key": "harber london everyday sling bag",
+   "alias": "everyday sling bag",
+   "name": "Harber London Everyday Sling Bag",
+   "brand": "Harber London",
+   "category": "Bags",
+   "grams": 450,
+   "priceUSD": 449
+  },
+  {
    "key": "harber london slim card holder",
    "alias": "slim card holder",
    "name": "Harber London Slim Card Holder",
@@ -5609,6 +5780,15 @@
    "category": "Tech/Electronics",
    "grams": null,
    "priceUSD": 80
+  },
+  {
+   "key": "jbl flip 7",
+   "alias": "flip 7",
+   "name": "JBL Flip 7",
+   "brand": "JBL",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 150
   },
   {
    "key": "julbo explorer 2.0",
@@ -6376,6 +6556,15 @@
    "priceUSD": 20
   },
   {
+   "key": "maglite mini maglite pro aa led",
+   "alias": "mini maglite pro aa led",
+   "name": "Maglite Mini Maglite Pro AA LED",
+   "brand": "Maglite",
+   "category": "Tools/EDC",
+   "grams": 118,
+   "priceUSD": 25
+  },
+  {
    "key": "maglite ml300l 2d",
    "alias": "ml300l 2d",
    "name": "Maglite ML300L 2D",
@@ -6428,6 +6617,15 @@
    "category": "Tools/EDC",
    "grams": 252,
    "priceUSD": 12
+  },
+  {
+   "key": "matador 18l waterproof packable backpack",
+   "alias": "18l waterproof packable backpack",
+   "name": "Matador 18L Waterproof Packable Backpack",
+   "brand": "Matador",
+   "category": "Bags",
+   "grams": 284,
+   "priceUSD": 95
   },
   {
    "key": "matador flatpak toiletry bottle",
@@ -6527,6 +6725,24 @@
    "category": "Tools/EDC",
    "grams": 420,
    "priceUSD": 35
+  },
+  {
+   "key": "mission workshop rhake ls",
+   "alias": "rhake ls",
+   "name": "Mission Workshop Rhake LS",
+   "brand": "Mission Workshop",
+   "category": "Bags",
+   "grams": 1497,
+   "priceUSD": 525
+  },
+  {
+   "key": "mission workshop speedwell 20l",
+   "alias": "speedwell 20l",
+   "name": "Mission Workshop Speedwell 20L",
+   "brand": "Mission Workshop",
+   "category": "Bags",
+   "grams": 1290,
+   "priceUSD": 345
   },
   {
    "key": "miyoo mini plus",
@@ -7168,6 +7384,15 @@
    "priceUSD": 95
   },
   {
+   "key": "nitecore mh25 pro",
+   "alias": "mh25 pro",
+   "name": "Nitecore MH25 Pro",
+   "brand": "Nitecore",
+   "category": "Tools/EDC",
+   "grams": 130,
+   "priceUSD": 100
+  },
+  {
    "key": "nitecore mh40 pro",
    "alias": "mh40 pro",
    "name": "Nitecore MH40 Pro",
@@ -7285,6 +7510,15 @@
    "priceUSD": 70
   },
   {
+   "key": "nitecore p10ix",
+   "alias": "p10ix",
+   "name": "Nitecore P10iX",
+   "brand": "Nitecore",
+   "category": "Tools/EDC",
+   "grams": 80,
+   "priceUSD": 100
+  },
+  {
    "key": "nitecore p20ix",
    "alias": "p20ix",
    "name": "Nitecore P20iX",
@@ -7301,6 +7535,15 @@
    "category": "Tools/EDC",
    "grams": 201,
    "priceUSD": 160
+  },
+  {
+   "key": "nitecore p30i",
+   "alias": null,
+   "name": "Nitecore P30i",
+   "brand": "Nitecore",
+   "category": "Tools/EDC",
+   "grams": 256,
+   "priceUSD": 140
   },
   {
    "key": "nitecore p40",
@@ -7679,6 +7922,15 @@
    "category": "Tools/EDC",
    "grams": 99,
    "priceUSD": 55
+  },
+  {
+   "key": "olight warrior 3s",
+   "alias": "warrior 3s",
+   "name": "Olight Warrior 3S",
+   "brand": "Olight",
+   "category": "Tools/EDC",
+   "grams": 176,
+   "priceUSD": 120
   },
   {
    "key": "olight warrior mini 3",
@@ -8815,6 +9067,24 @@
    "priceUSD": 240
   },
   {
+   "key": "sea to summit ultra-sil daypack",
+   "alias": "ultra-sil daypack",
+   "name": "Sea to Summit Ultra-Sil Daypack",
+   "brand": "Sea to Summit",
+   "category": "Bags",
+   "grams": 72,
+   "priceUSD": 50
+  },
+  {
+   "key": "sea to summit ultra-sil dry daypack",
+   "alias": "ultra-sil dry daypack",
+   "name": "Sea to Summit Ultra-Sil Dry Daypack",
+   "brand": "Sea to Summit",
+   "category": "Bags",
+   "grams": 110,
+   "priceUSD": 70
+  },
+  {
    "key": "secrid miniwallet",
    "alias": "miniwallet",
    "name": "Secrid Miniwallet",
@@ -9472,6 +9742,33 @@
    "priceUSD": 80
   },
   {
+   "key": "sunski anza",
+   "alias": null,
+   "name": "Sunski Anza",
+   "brand": "Sunski",
+   "category": "Tools/EDC",
+   "grams": 18,
+   "priceUSD": 68
+  },
+  {
+   "key": "sunski tera",
+   "alias": null,
+   "name": "Sunski Tera",
+   "brand": "Sunski",
+   "category": "Tools/EDC",
+   "grams": 26,
+   "priceUSD": 89
+  },
+  {
+   "key": "sunski treeline",
+   "alias": "treeline",
+   "name": "Sunski Treeline",
+   "brand": "Sunski",
+   "category": "Tools/EDC",
+   "grams": 28,
+   "priceUSD": 89
+  },
+  {
    "key": "supernote nomad",
    "alias": "nomad",
    "name": "Supernote Nomad",
@@ -9479,6 +9776,15 @@
    "category": "Tech/Electronics",
    "grams": 266,
    "priceUSD": 359
+  },
+  {
+   "key": "surefire 6px pro",
+   "alias": "6px pro",
+   "name": "SureFire 6PX Pro",
+   "brand": "SureFire",
+   "category": "Tools/EDC",
+   "grams": 147,
+   "priceUSD": 125
   },
   {
    "key": "surefire edcl1-t",
@@ -9490,6 +9796,15 @@
    "priceUSD": 239
   },
   {
+   "key": "surefire fury dual fuel tactical",
+   "alias": "fury dual fuel tactical",
+   "name": "SureFire Fury Dual Fuel Tactical",
+   "brand": "SureFire",
+   "category": "Tools/EDC",
+   "grams": 184,
+   "priceUSD": 259
+  },
+  {
    "key": "surefire g2x pro",
    "alias": "g2x pro",
    "name": "Surefire G2X Pro",
@@ -9497,6 +9812,15 @@
    "category": "Tools/EDC",
    "grams": 125,
    "priceUSD": 110
+  },
+  {
+   "key": "surefire minimus",
+   "alias": "minimus",
+   "name": "SureFire Minimus",
+   "brand": "SureFire",
+   "category": "Tools/EDC",
+   "grams": 113,
+   "priceUSD": 295
   },
   {
    "key": "surefire stiletto pro",
@@ -9643,6 +9967,15 @@
    "priceUSD": 300
   },
   {
+   "key": "teenage engineering ep-133 k.o. ii",
+   "alias": "ep-133 k.o. ii",
+   "name": "Teenage Engineering EP-133 K.O. II",
+   "brand": "Teenage Engineering",
+   "category": "Tech/Electronics",
+   "grams": null,
+   "priceUSD": 329
+  },
+  {
    "key": "tesla coil usb rechargeable arc",
    "alias": "usb rechargeable arc",
    "name": "Tesla Coil USB Rechargeable Arc",
@@ -9787,6 +10120,51 @@
    "priceUSD": 1050
   },
   {
+   "key": "timex expedition 39mm fabric strap",
+   "alias": "expedition 39mm fabric strap",
+   "name": "Timex Expedition 39mm Fabric Strap",
+   "brand": "Timex",
+   "category": "Tools/EDC",
+   "grams": 32,
+   "priceUSD": 91
+  },
+  {
+   "key": "timex expedition field post titanium automatic 41mm",
+   "alias": "expedition field post titanium automatic 41mm",
+   "name": "Timex Expedition Field Post Titanium Automatic 41mm",
+   "brand": "Timex",
+   "category": "Tools/EDC",
+   "grams": 64,
+   "priceUSD": 419
+  },
+  {
+   "key": "timex ironman classic 100",
+   "alias": "ironman classic 100",
+   "name": "Timex IRONMAN Classic 100",
+   "brand": "Timex",
+   "category": "Tools/EDC",
+   "grams": 47,
+   "priceUSD": 111
+  },
+  {
+   "key": "timex ironman classic 30",
+   "alias": "ironman classic 30",
+   "name": "Timex IRONMAN Classic 30",
+   "brand": "Timex",
+   "category": "Tools/EDC",
+   "grams": 39,
+   "priceUSD": 87
+  },
+  {
+   "key": "timex ironman original 30 shock",
+   "alias": "ironman original 30 shock",
+   "name": "Timex IRONMAN Original 30 Shock",
+   "brand": "Timex",
+   "category": "Tools/EDC",
+   "grams": 54,
+   "priceUSD": 97
+  },
+  {
    "key": "timex marlin automatic 40mm",
    "alias": "marlin automatic 40mm",
    "name": "Timex Marlin Automatic 40mm",
@@ -9794,6 +10172,24 @@
    "category": "Tools/EDC",
    "grams": 83,
    "priceUSD": 229
+  },
+  {
+   "key": "timex q timex 1975 ssq digital reissue",
+   "alias": "q timex 1975 ssq digital reissue",
+   "name": "Timex Q Timex 1975 SSQ Digital Reissue",
+   "brand": "Timex",
+   "category": "Tools/EDC",
+   "grams": 92,
+   "priceUSD": 169
+  },
+  {
+   "key": "timex t80 steel 36mm",
+   "alias": "t80 steel 36mm",
+   "name": "Timex T80 Steel 36mm",
+   "brand": "Timex",
+   "category": "Tools/EDC",
+   "grams": 55,
+   "priceUSD": 159
   },
   {
    "key": "timex weekender 38",
@@ -10019,6 +10415,42 @@
    "category": "Tools/EDC",
    "grams": 44,
    "priceUSD": 35
+  },
+  {
+   "key": "triple aught design axiom s2 wx pack",
+   "alias": "axiom s2 wx pack",
+   "name": "Triple Aught Design Axiom S2 WX Pack",
+   "brand": "Triple Aught Design",
+   "category": "Bags",
+   "grams": 1630,
+   "priceUSD": 485
+  },
+  {
+   "key": "triple aught design fast pack edc",
+   "alias": "fast pack edc",
+   "name": "Triple Aught Design FAST Pack EDC",
+   "brand": "Triple Aught Design",
+   "category": "Bags",
+   "grams": 2041,
+   "priceUSD": 495
+  },
+  {
+   "key": "triple aught design fast pack scout mk2 wx",
+   "alias": "fast pack scout mk2 wx",
+   "name": "Triple Aught Design FAST Pack Scout MK2 WX",
+   "brand": "Triple Aught Design",
+   "category": "Bags",
+   "grams": 1134,
+   "priceUSD": 295
+  },
+  {
+   "key": "triple aught design parallax messenger bag 15l wx",
+   "alias": "parallax messenger bag 15l wx",
+   "name": "Triple Aught Design Parallax Messenger Bag 15L WX",
+   "brand": "Triple Aught Design",
+   "category": "Bags",
+   "grams": 992,
+   "priceUSD": 395
   },
   {
    "key": "tudor black bay 58",
@@ -10408,6 +10840,33 @@
    "priceUSD": 359
   },
   {
+   "key": "wiha picofinish 11 piece smartphone technician set",
+   "alias": "picofinish 11 piece smartphone technician set",
+   "name": "Wiha PicoFinish 11 Piece Smartphone Technician Set",
+   "brand": "Wiha",
+   "category": "Tools/EDC",
+   "grams": 268,
+   "priceUSD": 133
+  },
+  {
+   "key": "wiha picofinish 8 piece slotted and phillips set",
+   "alias": "picofinish 8 piece slotted and phillips set",
+   "name": "Wiha PicoFinish 8 Piece Slotted and Phillips Set",
+   "brand": "Wiha",
+   "category": "Tools/EDC",
+   "grams": 250,
+   "priceUSD": 62
+  },
+  {
+   "key": "wiha picofinish 8 piece torx set t1-t8",
+   "alias": "picofinish 8 piece torx set t1-t8",
+   "name": "Wiha PicoFinish 8 Piece Torx Set T1-T8",
+   "brand": "Wiha",
+   "category": "Tools/EDC",
+   "grams": 227,
+   "priceUSD": 82
+  },
+  {
    "key": "wurkkos fc11",
    "alias": null,
    "name": "Wurkkos FC11",
@@ -10568,6 +11027,15 @@
    "category": "Tech/Electronics",
    "grams": 243,
    "priceUSD": 220
+  },
+  {
+   "key": "zoom h8",
+   "alias": null,
+   "name": "Zoom H8",
+   "brand": "Zoom",
+   "category": "Tech/Electronics",
+   "grams": 354,
+   "priceUSD": 350
   }
  ]
 }
