@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-10-23T11:40:51-04:00",
- "count": 1232,
+ "generatedAt": "2026-11-05T20:18:39-05:00",
+ "count": 1332,
  "items": [
   {
    "key": "8bitdo ultimate 2 wireless controller",
@@ -283,6 +283,15 @@
    "priceUSD": 40
   },
   {
+   "key": "alpaka 7ven messenger 16\" (decade edition)",
+   "alias": "7ven messenger 16\" (decade edition)",
+   "name": "Alpaka 7ven Messenger 16\" (Decade Edition)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 1700,
+   "priceUSD": 229
+  },
+  {
    "key": "alpaka aero pack (16l)",
    "alias": "aero pack (16l)",
    "name": "Alpaka Aero Pack (16L)",
@@ -326,6 +335,15 @@
    "category": "Tools/EDC",
    "grams": 80,
    "priceUSD": 27
+  },
+  {
+   "key": "alpaka aura sling (halloween edition)",
+   "alias": "aura sling (halloween edition)",
+   "name": "Alpaka Aura Sling (Halloween Edition)",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 230,
+   "priceUSD": 139
   },
   {
    "key": "alpaka bravo backpack (23l)",
@@ -1021,6 +1039,15 @@
    "priceUSD": 269
   },
   {
+   "key": "alpaka vertex mission sling",
+   "alias": "vertex mission sling",
+   "name": "Alpaka Vertex Mission Sling",
+   "brand": "Alpaka",
+   "category": "Bags",
+   "grams": 550,
+   "priceUSD": 109
+  },
+  {
    "key": "alpaka vertex pouch mini (2l)",
    "alias": "vertex pouch mini (2l)",
    "name": "Alpaka Vertex Pouch Mini (2L)",
@@ -1597,6 +1624,15 @@
    "priceUSD": 499
   },
   {
+   "key": "apple ipad mini (a20 pro)",
+   "alias": "ipad mini (a20 pro)",
+   "name": "Apple iPad mini (A20 Pro)",
+   "brand": "Apple",
+   "category": "Tech/Electronics",
+   "grams": 255,
+   "priceUSD": 699
+  },
+  {
    "key": "apple ipad pro 11-inch (3rd generation, m1)",
    "alias": "ipad pro 11-inch (3rd generation, m1)",
    "name": "Apple iPad Pro 11-inch (3rd generation, M1)",
@@ -1873,7 +1909,7 @@
    "brand": "Apple",
    "category": "Tech/Electronics",
    "grams": 177,
-   "priceUSD": 799
+   "priceUSD": 899
   },
   {
    "key": "apple iphone 17 pro",
@@ -1945,7 +1981,7 @@
    "brand": "Apple",
    "category": "Tech/Electronics",
    "grams": 165,
-   "priceUSD": 774
+   "priceUSD": 1099
   },
   {
    "key": "apple iphone duo",
@@ -2131,6 +2167,15 @@
    "key": "apple macbook pro 14-inch (m5)",
    "alias": "macbook pro 14-inch (m5)",
    "name": "Apple MacBook Pro 14-inch (M5)",
+   "brand": "Apple",
+   "category": "Tech/Electronics",
+   "grams": 1550,
+   "priceUSD": 1999
+  },
+  {
+   "key": "apple macbook pro 14-inch (m6)",
+   "alias": "macbook pro 14-inch (m6)",
+   "name": "Apple MacBook Pro 14-inch (M6)",
    "brand": "Apple",
    "category": "Tech/Electronics",
    "grams": 1550,
@@ -3955,6 +4000,15 @@
    "priceUSD": 95
   },
   {
+   "key": "bellroy venture ready sling 4l",
+   "alias": "venture ready sling 4l",
+   "name": "Bellroy Venture Ready Sling 4L",
+   "brand": "Bellroy",
+   "category": "Bags",
+   "grams": 235,
+   "priceUSD": 99
+  },
+  {
    "key": "bellroy venture sling 6l",
    "alias": "venture sling 6l",
    "name": "Bellroy Venture Sling 6L",
@@ -4187,6 +4241,15 @@
    "category": "Tools/EDC",
    "grams": 10,
    "priceUSD": 25
+  },
+  {
+   "key": "blackwing colors (set of 12)",
+   "alias": "colors (set of 12)",
+   "name": "Blackwing Colors (Set of 12)",
+   "brand": "Blackwing",
+   "category": "Tools/EDC",
+   "grams": 110,
+   "priceUSD": 30
   },
   {
    "key": "boox go 6",
@@ -5215,6 +5278,285 @@
    "priceUSD": 90
   },
   {
+   "key": "field notes 1943 (fnc-69, 3-pack)",
+   "alias": "1943 (fnc-69, 3-pack)",
+   "name": "Field Notes 1943 (FNC-69, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes 2027 15-month work station calendar",
+   "alias": "2027 15-month work station calendar",
+   "name": "Field Notes 2027 15-Month Work Station Calendar",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 80,
+   "priceUSD": 25
+  },
+  {
+   "key": "field notes 56-week planner",
+   "alias": "56-week planner",
+   "name": "Field Notes 56-Week Planner",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 170,
+   "priceUSD": 17
+  },
+  {
+   "key": "field notes ambition (fnc-25, 3-pack)",
+   "alias": "ambition (fnc-25, 3-pack)",
+   "name": "Field Notes Ambition (FNC-25, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes america the beautiful (fnc-18, 3-pack)",
+   "alias": "america the beautiful (fnc-18, 3-pack)",
+   "name": "Field Notes America the Beautiful (FNC-18, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes american tradesman (fnc-11, 3-pack)",
+   "alias": "american tradesman (fnc-11, 3-pack)",
+   "name": "Field Notes American Tradesman (FNC-11, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes archival wooden box",
+   "alias": "archival wooden box",
+   "name": "Field Notes Archival Wooden Box",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 700,
+   "priceUSD": 50
+  },
+  {
+   "key": "field notes arts and sciences (fnc-23, 2-pack)",
+   "alias": "arts and sciences (fnc-23, 2-pack)",
+   "name": "Field Notes Arts and Sciences (FNC-23, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 165,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes autumn trilogy (fnc-44, 3-pack)",
+   "alias": "autumn trilogy (fnc-44, 3-pack)",
+   "name": "Field Notes Autumn Trilogy (FNC-44, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes balsam fir (fnc-09, 3-pack)",
+   "alias": "balsam fir (fnc-09, 3-pack)",
+   "name": "Field Notes Balsam Fir (FNC-09, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes birch bark (fnc-60, 3-pack)",
+   "alias": "birch bark (fnc-60, 3-pack)",
+   "name": "Field Notes Birch Bark (FNC-60, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes birds and trees of north america (fnc-64, 3-pack)",
+   "alias": "birds and trees of north america (fnc-64, 3-pack)",
+   "name": "Field Notes Birds and Trees of North America (FNC-64, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes black ice (fnc-33, 3-pack)",
+   "alias": "black ice (fnc-33, 3-pack)",
+   "name": "Field Notes Black Ice (FNC-33, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes butcher extra blue (fnc-02, 3-pack)",
+   "alias": "butcher extra blue (fnc-02, 3-pack)",
+   "name": "Field Notes Butcher Extra Blue (FNC-02, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes butcher orange (fnc-01, 3-pack)",
+   "alias": "butcher orange (fnc-01, 3-pack)",
+   "name": "Field Notes Butcher Orange (FNC-01, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes byline (fnc-31, 2-pack)",
+   "alias": "byline (fnc-31, 2-pack)",
+   "name": "Field Notes Byline (FNC-31, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 150,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes campfire (fnc-35, 3-pack)",
+   "alias": "campfire (fnc-35, 3-pack)",
+   "name": "Field Notes Campfire (FNC-35, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes carpenter pencil 3-pack",
+   "alias": "carpenter pencil 3-pack",
+   "name": "Field Notes Carpenter Pencil 3-Pack",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 30,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes chicago memo book (3-pack)",
+   "alias": "chicago memo book (3-pack)",
+   "name": "Field Notes Chicago Memo Book (3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes clandestine (fnc-41, 3-pack)",
+   "alias": "clandestine (fnc-41, 3-pack)",
+   "name": "Field Notes Clandestine (FNC-41, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes clic pen 6-pack (black ink)",
+   "alias": "clic pen 6-pack (black ink)",
+   "name": "Field Notes Clic Pen 6-Pack (Black Ink)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 40,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes coastal (fnc-38, 3-pack)",
+   "alias": "coastal (fnc-38, 3-pack)",
+   "name": "Field Notes Coastal (FNC-38, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes cold horizon (fnc-21, 3-pack)",
+   "alias": "cold horizon (fnc-21, 3-pack)",
+   "name": "Field Notes Cold Horizon (FNC-21, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes county fair state edition (fnc-07, 3-pack)",
+   "alias": "county fair state edition (fnc-07, 3-pack)",
+   "name": "Field Notes County Fair State Edition (FNC-07, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 7
+  },
+  {
+   "key": "field notes daily carry memo book cover",
+   "alias": "daily carry memo book cover",
+   "name": "Field Notes Daily Carry Memo Book Cover",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 90,
+   "priceUSD": 90
+  },
+  {
+   "key": "field notes day game (fnc-15, 3-pack)",
+   "alias": "day game (fnc-15, 3-pack)",
+   "name": "Field Notes Day Game (FNC-15, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes ddc other worlds (3-pack)",
+   "alias": "ddc other worlds (3-pack)",
+   "name": "Field Notes DDC Other Worlds (3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 16
+  },
+  {
+   "key": "field notes dime novel (fnc-36, 2-pack)",
+   "alias": "dime novel (fnc-36, 2-pack)",
+   "name": "Field Notes Dime Novel (FNC-36, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 140,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes drink local (fnc-20, 3-pack)",
+   "alias": "drink local (fnc-20, 3-pack)",
+   "name": "Field Notes Drink Local (FNC-20, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes dry transfer (fnc-10, 3-pack)",
+   "alias": "dry transfer (fnc-10, 3-pack)",
+   "name": "Field Notes Dry Transfer (FNC-10, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes end papers (fnc-40, 2-pack)",
+   "alias": "end papers (fnc-40, 2-pack)",
+   "name": "Field Notes End Papers (FNC-40, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 120,
+   "priceUSD": 13
+  },
+  {
    "key": "field notes everyday inspiration (bellroy leather cover)",
    "alias": "everyday inspiration (bellroy leather cover)",
    "name": "Field Notes Everyday Inspiration (Bellroy Leather Cover)",
@@ -5222,6 +5564,285 @@
    "category": "Tools/EDC",
    "grams": 77,
    "priceUSD": null
+  },
+  {
+   "key": "field notes expedition (fnc-17, 3-pack)",
+   "alias": "expedition (fnc-17, 3-pack)",
+   "name": "Field Notes Expedition (FNC-17, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes explore america: northern california (3-pack)",
+   "alias": "explore america: northern california (3-pack)",
+   "name": "Field Notes Explore America: Northern California (3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes fall flowers (fnc-68, 3-pack)",
+   "alias": "fall flowers (fnc-68, 3-pack)",
+   "name": "Field Notes Fall Flowers (FNC-68, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes fifty (fnc-50, 3-pack)",
+   "alias": "fifty (fnc-50, 3-pack)",
+   "name": "Field Notes Fifty (FNC-50, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes fire spotter (fnc-12, 3-pack)",
+   "alias": "fire spotter (fnc-12, 3-pack)",
+   "name": "Field Notes Fire Spotter (FNC-12, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes flora (fnc-62, 3-pack)",
+   "alias": "flora (fnc-62, 3-pack)",
+   "name": "Field Notes Flora (FNC-62, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes foiled again (fnc-59, 3-pack)",
+   "alias": "foiled again (fnc-59, 3-pack)",
+   "name": "Field Notes Foiled Again (FNC-59, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes front page reporter's notebook (2-pack)",
+   "alias": "front page reporter's notebook (2-pack)",
+   "name": "Field Notes Front Page Reporter's Notebook (2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 150,
+   "priceUSD": 17
+  },
+  {
+   "key": "field notes grass stain green (fnc-03, 3-pack)",
+   "alias": "grass stain green (fnc-03, 3-pack)",
+   "name": "Field Notes Grass Stain Green (FNC-03, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes great lakes (fnc-55, 5-pack)",
+   "alias": "great lakes (fnc-55, 5-pack)",
+   "name": "Field Notes Great Lakes (FNC-55, 5-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 165,
+   "priceUSD": 28
+  },
+  {
+   "key": "field notes group eleven (fnc-45, 3-pack)",
+   "alias": "group eleven (fnc-45, 3-pack)",
+   "name": "Field Notes Group Eleven (FNC-45, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes harvest (fnc-52, 3-pack)",
+   "alias": "harvest (fnc-52, 3-pack)",
+   "name": "Field Notes Harvest (FNC-52, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes hatch (fnc-56, 3-pack)",
+   "alias": "hatch (fnc-56, 3-pack)",
+   "name": "Field Notes Hatch (FNC-56, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes heartland (fnc-61, 3-pack)",
+   "alias": "heartland (fnc-61, 3-pack)",
+   "name": "Field Notes Heartland (FNC-61, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes heavy duty work books (fnc-47, 2-pack)",
+   "alias": "heavy duty work books (fnc-47, 2-pack)",
+   "name": "Field Notes Heavy Duty Work Books (FNC-47, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 120,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes hunter's moon (fnc-72, 2-pack)",
+   "alias": "hunter's moon (fnc-72, 2-pack)",
+   "name": "Field Notes Hunter's Moon (FNC-72, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 125,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes ignition (fnc-53, 3-pack)",
+   "alias": "ignition (fnc-53, 3-pack)",
+   "name": "Field Notes Ignition (FNC-53, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes index (fnc-63, 2-pack)",
+   "alias": "index (fnc-63, 2-pack)",
+   "name": "Field Notes Index (FNC-63, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 80,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes is a river alive? (fnc-67, 3-pack)",
+   "alias": "is a river alive? (fnc-67, 3-pack)",
+   "name": "Field Notes Is a River Alive? (FNC-67, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes just below zero (fnc-05, 3-pack)",
+   "alias": "just below zero (fnc-05, 3-pack)",
+   "name": "Field Notes Just Below Zero (FNC-05, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes kraft plus (fnc-57, 2-pack)",
+   "alias": "kraft plus (fnc-57, 2-pack)",
+   "name": "Field Notes Kraft Plus (FNC-57, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 67,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes left-handed memo book (3-pack)",
+   "alias": "left-handed memo book (3-pack)",
+   "name": "Field Notes Left-Handed Memo Book (3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes lucky (fnc-70, 3-pack)",
+   "alias": "lucky (fnc-70, 3-pack)",
+   "name": "Field Notes Lucky (FNC-70, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes lunacy (fnc-32, 3-pack)",
+   "alias": "lunacy (fnc-32, 3-pack)",
+   "name": "Field Notes Lunacy (FNC-32, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes mackinaw autumn (fnc-04, 3-pack)",
+   "alias": "mackinaw autumn (fnc-04, 3-pack)",
+   "name": "Field Notes Mackinaw Autumn (FNC-04, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes mile marker (fnc-42, 3-pack)",
+   "alias": "mile marker (fnc-42, 3-pack)",
+   "name": "Field Notes Mile Marker (FNC-42, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes national crop (fnc-14, 6-pack box set)",
+   "alias": "national crop (fnc-14, 6-pack box set)",
+   "name": "Field Notes National Crop (FNC-14, 6-Pack Box Set)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 240,
+   "priceUSD": 20
+  },
+  {
+   "key": "field notes national parks, series a (3-pack)",
+   "alias": "national parks, series a (3-pack)",
+   "name": "Field Notes National Parks, Series A (3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes night sky (fnc-19, 3-pack)",
+   "alias": "night sky (fnc-19, 3-pack)",
+   "name": "Field Notes Night Sky (FNC-19, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes no. 2 woodgrain pencil 6-pack",
+   "alias": "no. 2 woodgrain pencil 6-pack",
+   "name": "Field Notes No. 2 Woodgrain Pencil 6-Pack",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 35,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes northerly (fnc-13, 3-pack)",
+   "alias": "northerly (fnc-13, 3-pack)",
+   "name": "Field Notes Northerly (FNC-13, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
   },
   {
    "key": "field notes original kraft",
@@ -5240,6 +5861,240 @@
    "category": "Tools/EDC",
    "grams": 30,
    "priceUSD": 12
+  },
+  {
+   "key": "field notes packet of sunshine (fnc-06, 3-pack)",
+   "alias": "packet of sunshine (fnc-06, 3-pack)",
+   "name": "Field Notes Packet of Sunshine (FNC-06, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes paletas (fnc-71, 3-pack)",
+   "alias": "paletas (fnc-71, 3-pack)",
+   "name": "Field Notes Paletas (FNC-71, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes pitch black memo book (3-pack)",
+   "alias": "pitch black memo book (3-pack)",
+   "name": "Field Notes Pitch Black Memo Book (3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes pitch black notebook (2-pack)",
+   "alias": "pitch black notebook (2-pack)",
+   "name": "Field Notes Pitch Black Notebook (2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 165,
+   "priceUSD": 17
+  },
+  {
+   "key": "field notes portland memo book (3-pack)",
+   "alias": "portland memo book (3-pack)",
+   "name": "Field Notes Portland Memo Book (3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes raven's wing (fnc-08, 3-pack)",
+   "alias": "raven's wing (fnc-08, 3-pack)",
+   "name": "Field Notes Raven's Wing (FNC-08, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes resolution (fnc-37, 3-pack)",
+   "alias": "resolution (fnc-37, 3-pack)",
+   "name": "Field Notes Resolution (FNC-37, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes shelterwood (fnc-22, 3-pack)",
+   "alias": "shelterwood (fnc-22, 3-pack)",
+   "name": "Field Notes Shelterwood (FNC-22, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes shenandoah (fnc-28, 3-pack)",
+   "alias": "shenandoah (fnc-28, 3-pack)",
+   "name": "Field Notes Shenandoah (FNC-28, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes signs of spring (fnc-54, 3-pack)",
+   "alias": "signs of spring (fnc-54, 3-pack)",
+   "name": "Field Notes Signs of Spring (FNC-54, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes snowblind (fnc-29, 3-pack)",
+   "alias": "snowblind (fnc-29, 3-pack)",
+   "name": "Field Notes Snowblind (FNC-29, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes snowy evening (fnc-49, 3-pack)",
+   "alias": "snowy evening (fnc-49, 3-pack)",
+   "name": "Field Notes Snowy Evening (FNC-49, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes steno (gregg-ruled pad)",
+   "alias": "steno (gregg-ruled pad)",
+   "name": "Field Notes Steno (Gregg-Ruled Pad)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 180,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes streetscapes (fnc-58, 2-pack)",
+   "alias": "streetscapes (fnc-58, 2-pack)",
+   "name": "Field Notes Streetscapes (FNC-58, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 120,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes sweet tooth (fnc-30, 3-pack)",
+   "alias": "sweet tooth (fnc-30, 3-pack)",
+   "name": "Field Notes Sweet Tooth (FNC-30, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes the chicago look (fnc-66, 2-pack)",
+   "alias": "the chicago look (fnc-66, 2-pack)",
+   "name": "Field Notes The Chicago Look (FNC-66, 2-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 220,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes three missions (fnc-39, 3-pack)",
+   "alias": "three missions (fnc-39, 3-pack)",
+   "name": "Field Notes Three Missions (FNC-39, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes trailhead (fnc-51, 3-pack)",
+   "alias": "trailhead (fnc-51, 3-pack)",
+   "name": "Field Notes Trailhead (FNC-51, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes traveling salesman (fnc-16, 3-pack)",
+   "alias": "traveling salesman (fnc-16, 3-pack)",
+   "name": "Field Notes Traveling Salesman (FNC-16, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes two rivers (fnc-26, 3-pack)",
+   "alias": "two rivers (fnc-26, 3-pack)",
+   "name": "Field Notes Two Rivers (FNC-26, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes unexposed (fnc-24, 3-pack)",
+   "alias": "unexposed (fnc-24, 3-pack)",
+   "name": "Field Notes Unexposed (FNC-24, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 10
+  },
+  {
+   "key": "field notes united states of letterpress (fnc-48, 3-pack)",
+   "alias": "united states of letterpress (fnc-48, 3-pack)",
+   "name": "Field Notes United States of Letterpress (FNC-48, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes utility (fnc-34, 3-pack)",
+   "alias": "utility (fnc-34, 3-pack)",
+   "name": "Field Notes Utility (FNC-34, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes vignette (fnc-46, 3-pack)",
+   "alias": "vignette (fnc-46, 3-pack)",
+   "name": "Field Notes Vignette (FNC-46, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 13
+  },
+  {
+   "key": "field notes vintage (fnc-65, 3-pack)",
+   "alias": "vintage (fnc-65, 3-pack)",
+   "name": "Field Notes Vintage (FNC-65, 3-Pack)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 100,
+   "priceUSD": 15
+  },
+  {
+   "key": "field notes workshop companion (fnc-27, 6-pack box set)",
+   "alias": "workshop companion (fnc-27, 6-pack box set)",
+   "name": "Field Notes Workshop Companion (FNC-27, 6-Pack Box Set)",
+   "brand": "Field Notes",
+   "category": "Tools/EDC",
+   "grams": 260,
+   "priceUSD": 20
   },
   {
    "key": "fisher bullet space pen",
@@ -5419,7 +6274,7 @@
    "brand": "Google",
    "category": "Tech/Electronics",
    "grams": 204,
-   "priceUSD": 390
+   "priceUSD": 799
   },
   {
    "key": "google pixel 10 pro",
@@ -5437,7 +6292,7 @@
    "brand": "Google",
    "category": "Tech/Electronics",
    "grams": 258,
-   "priceUSD": 1080
+   "priceUSD": 1799
   },
   {
    "key": "google pixel 10 pro xl",
@@ -7249,6 +8104,15 @@
    "priceUSD": 76
   },
   {
+   "key": "nitecore edc17",
+   "alias": "edc17",
+   "name": "Nitecore EDC17",
+   "brand": "Nitecore",
+   "category": "Tools/EDC",
+   "grams": 106,
+   "priceUSD": 95
+  },
+  {
    "key": "nitecore edc23",
    "alias": "edc23",
    "name": "Nitecore EDC23",
@@ -8956,7 +9820,7 @@
    "brand": "Samsung",
    "category": "Tech/Electronics",
    "grams": 167,
-   "priceUSD": 710
+   "priceUSD": 1000
   },
   {
    "key": "samsung galaxy s26 ultra",
@@ -8965,7 +9829,7 @@
    "brand": "Samsung",
    "category": "Tech/Electronics",
    "grams": 218,
-   "priceUSD": 1299
+   "priceUSD": 1400
   },
   {
    "key": "samsung galaxy s26+",
@@ -8983,7 +9847,7 @@
    "brand": "Samsung",
    "category": "Tech/Electronics",
    "grams": 467,
-   "priceUSD": 750
+   "priceUSD": 1000
   },
   {
    "key": "samsung galaxy watch 8",
@@ -9010,7 +9874,7 @@
    "brand": "Samsung",
    "category": "Tech/Electronics",
    "grams": 188,
-   "priceUSD": 550
+   "priceUSD": 1100
   },
   {
    "key": "samsung galaxy z fold 7",
@@ -9019,7 +9883,7 @@
    "brand": "Samsung",
    "category": "Tech/Electronics",
    "grams": 215,
-   "priceUSD": 1999
+   "priceUSD": 2000
   },
   {
    "key": "samsung smarttag 2",
@@ -9506,6 +10370,42 @@
    "category": "Tools/EDC",
    "grams": 354,
    "priceUSD": 25
+  },
+  {
+   "key": "skrsan aura 25w ultra-thin universal travel adapter",
+   "alias": "aura 25w ultra-thin universal travel adapter",
+   "name": "SKRSAN Aura 25W Ultra-Thin Universal Travel Adapter",
+   "brand": "SKRSAN",
+   "category": "Tech/Electronics",
+   "grams": 139,
+   "priceUSD": 20
+  },
+  {
+   "key": "skrsan aura 45w ultra-thin universal travel adapter",
+   "alias": "aura 45w ultra-thin universal travel adapter",
+   "name": "SKRSAN Aura 45W Ultra-Thin Universal Travel Adapter",
+   "brand": "SKRSAN",
+   "category": "Tech/Electronics",
+   "grams": 159,
+   "priceUSD": 27
+  },
+  {
+   "key": "skrsan aura 70w ultra-thin universal travel adapter",
+   "alias": "aura 70w ultra-thin universal travel adapter",
+   "name": "SKRSAN Aura 70W Ultra-Thin Universal Travel Adapter",
+   "brand": "SKRSAN",
+   "category": "Tech/Electronics",
+   "grams": 159,
+   "priceUSD": 34
+  },
+  {
+   "key": "skrsan aura mini universal travel adapter",
+   "alias": "aura mini universal travel adapter",
+   "name": "SKRSAN Aura Mini Universal Travel Adapter",
+   "brand": "SKRSAN",
+   "category": "Tech/Electronics",
+   "grams": 77,
+   "priceUSD": 15
   },
   {
    "key": "skullcandy dime 3",
@@ -10783,7 +11683,7 @@
    "brand": "Valve",
    "category": "Tech/Electronics",
    "grams": 640,
-   "priceUSD": 549
+   "priceUSD": 789
   },
   {
    "key": "vargo titanium edc water bottle",
