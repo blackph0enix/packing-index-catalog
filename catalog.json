@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-05T20:18:39-05:00",
- "count": 1332,
+ "generatedAt": "2026-11-06T14:21:31-05:00",
+ "count": 1415,
  "items": [
   {
    "key": "8bitdo ultimate 2 wireless controller",
@@ -5152,6 +5152,42 @@
    "priceUSD": 175
   },
   {
+   "key": "fenix c7",
+   "alias": null,
+   "name": "Fenix C7",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 172,
+   "priceUSD": 60
+  },
+  {
+   "key": "fenix c7 pro",
+   "alias": "c7 pro",
+   "name": "Fenix C7 PRO",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 262,
+   "priceUSD": 90
+  },
+  {
+   "key": "fenix e03r v2.0",
+   "alias": "e03r v2.0",
+   "name": "Fenix E03R V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 30,
+   "priceUSD": 30
+  },
+  {
+   "key": "fenix e06r",
+   "alias": null,
+   "name": "Fenix E06R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 54,
+   "priceUSD": 56
+  },
+  {
    "key": "fenix e06r pro",
    "alias": "e06r pro",
    "name": "Fenix E06R Pro",
@@ -5159,6 +5195,24 @@
    "category": "Tools/EDC",
    "grams": 104,
    "priceUSD": 75
+  },
+  {
+   "key": "fenix e08r ue",
+   "alias": "e08r ue",
+   "name": "Fenix E08R UE",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 125,
+   "priceUSD": 85
+  },
+  {
+   "key": "fenix e12 v3.0",
+   "alias": "e12 v3.0",
+   "name": "Fenix E12 V3.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 54,
+   "priceUSD": 30
   },
   {
    "key": "fenix e18r v2.0",
@@ -5188,6 +5242,60 @@
    "priceUSD": 80
   },
   {
+   "key": "fenix e40r",
+   "alias": null,
+   "name": "Fenix E40R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 220,
+   "priceUSD": 110
+  },
+  {
+   "key": "fenix hl18r-t v2.0",
+   "alias": "hl18r-t v2.0",
+   "name": "Fenix HL18R-T V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 103,
+   "priceUSD": 55
+  },
+  {
+   "key": "fenix hl32r-t",
+   "alias": "hl32r-t",
+   "name": "Fenix HL32R-T",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 107,
+   "priceUSD": 70
+  },
+  {
+   "key": "fenix hl45r",
+   "alias": "hl45r",
+   "name": "Fenix HL45R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 133,
+   "priceUSD": 80
+  },
+  {
+   "key": "fenix hm23 v2.0",
+   "alias": "hm23 v2.0",
+   "name": "Fenix HM23 V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 86,
+   "priceUSD": 37
+  },
+  {
+   "key": "fenix hm53r",
+   "alias": "hm53r",
+   "name": "Fenix HM53R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 102,
+   "priceUSD": 70
+  },
+  {
    "key": "fenix hm55r renegade",
    "alias": "hm55r renegade",
    "name": "Fenix HM55R Renegade",
@@ -5195,6 +5303,24 @@
    "category": "Tools/EDC",
    "grams": 105,
    "priceUSD": 75
+  },
+  {
+   "key": "fenix hm60r v2.0",
+   "alias": "hm60r v2.0",
+   "name": "Fenix HM60R V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 173,
+   "priceUSD": 85
+  },
+  {
+   "key": "fenix hm61r v3.0",
+   "alias": "hm61r v3.0",
+   "name": "Fenix HM61R V3.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 168,
+   "priceUSD": 90
   },
   {
    "key": "fenix hm65r v2.0",
@@ -5215,6 +5341,24 @@
    "priceUSD": 110
   },
   {
+   "key": "fenix hm71r v2.0",
+   "alias": "hm71r v2.0",
+   "name": "Fenix HM71R V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 220,
+   "priceUSD": 125
+  },
+  {
+   "key": "fenix hm75r pro",
+   "alias": "hm75r pro",
+   "name": "Fenix HM75R PRO",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 214,
+   "priceUSD": 140
+  },
+  {
    "key": "fenix hp35r",
    "alias": "hp35r",
    "name": "Fenix HP35R",
@@ -5222,6 +5366,51 @@
    "category": "Tools/EDC",
    "grams": 433,
    "priceUSD": 230
+  },
+  {
+   "key": "fenix ht18r v2.0",
+   "alias": "ht18r v2.0",
+   "name": "Fenix HT18R V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 358,
+   "priceUSD": 150
+  },
+  {
+   "key": "fenix ht32r",
+   "alias": "ht32r",
+   "name": "Fenix HT32R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 259,
+   "priceUSD": 190
+  },
+  {
+   "key": "fenix ld12r",
+   "alias": "ld12r",
+   "name": "Fenix LD12R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 74,
+   "priceUSD": 60
+  },
+  {
+   "key": "fenix ld22 v2.0",
+   "alias": "ld22 v2.0",
+   "name": "Fenix LD22 V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 96,
+   "priceUSD": 66
+  },
+  {
+   "key": "fenix ld30r",
+   "alias": "ld30r",
+   "name": "Fenix LD30R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 132,
+   "priceUSD": 80
   },
   {
    "key": "fenix ld31 renegade",
@@ -5233,6 +5422,33 @@
    "priceUSD": 100
   },
   {
+   "key": "fenix ld35r",
+   "alias": "ld35r",
+   "name": "Fenix LD35R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 185,
+   "priceUSD": 90
+  },
+  {
+   "key": "fenix ld36r",
+   "alias": "ld36r",
+   "name": "Fenix LD36R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 231,
+   "priceUSD": 115
+  },
+  {
+   "key": "fenix lr35r pro",
+   "alias": "lr35r pro",
+   "name": "Fenix LR35R PRO",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 457,
+   "priceUSD": 230
+  },
+  {
    "key": "fenix pd25r",
    "alias": "pd25r",
    "name": "Fenix PD25R",
@@ -5240,6 +5456,42 @@
    "category": "Tools/EDC",
    "grams": 48,
    "priceUSD": 80
+  },
+  {
+   "key": "fenix pd26r ace",
+   "alias": "pd26r ace",
+   "name": "Fenix PD26R ACE",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 102,
+   "priceUSD": 63
+  },
+  {
+   "key": "fenix pd32r",
+   "alias": "pd32r",
+   "name": "Fenix PD32R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 136,
+   "priceUSD": 80
+  },
+  {
+   "key": "fenix pd35r ace",
+   "alias": "pd35r ace",
+   "name": "Fenix PD35R ACE",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 145,
+   "priceUSD": 86
+  },
+  {
+   "key": "fenix pd36r ace",
+   "alias": "pd36r ace",
+   "name": "Fenix PD36R ACE",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 182,
+   "priceUSD": 110
   },
   {
    "key": "fenix pd36r pro",
@@ -5251,6 +5503,24 @@
    "priceUSD": 90
   },
   {
+   "key": "fenix pd40r v3.0",
+   "alias": "pd40r v3.0",
+   "name": "Fenix PD40R V3.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 198,
+   "priceUSD": 120
+  },
+  {
+   "key": "fenix pd45r ace",
+   "alias": "pd45r ace",
+   "name": "Fenix PD45R ACE",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 201,
+   "priceUSD": 130
+  },
+  {
    "key": "fenix sw06r",
    "alias": "sw06r",
    "name": "Fenix SW06R",
@@ -5258,6 +5528,42 @@
    "category": "Tools/EDC",
    "grams": 88,
    "priceUSD": 55
+  },
+  {
+   "key": "fenix t6 penlight",
+   "alias": "t6 penlight",
+   "name": "Fenix T6 Penlight",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 33,
+   "priceUSD": 37
+  },
+  {
+   "key": "fenix tk05r",
+   "alias": "tk05r",
+   "name": "Fenix TK05R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 124,
+   "priceUSD": 80
+  },
+  {
+   "key": "fenix tk11r",
+   "alias": "tk11r",
+   "name": "Fenix TK11R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 118,
+   "priceUSD": 87
+  },
+  {
+   "key": "fenix tk15r",
+   "alias": "tk15r",
+   "name": "Fenix TK15R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 206,
+   "priceUSD": 120
   },
   {
    "key": "fenix tk16 v2.0",
@@ -5269,6 +5575,60 @@
    "priceUSD": 120
   },
   {
+   "key": "fenix tk17 (stone)",
+   "alias": "tk17 (stone)",
+   "name": "Fenix TK17 (Stone)",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 197,
+   "priceUSD": 105
+  },
+  {
+   "key": "fenix tk20r v2.0",
+   "alias": "tk20r v2.0",
+   "name": "Fenix TK20R V2.0",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 204,
+   "priceUSD": 130
+  },
+  {
+   "key": "fenix tk21r",
+   "alias": "tk21r",
+   "name": "Fenix TK21R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 221,
+   "priceUSD": 135
+  },
+  {
+   "key": "fenix tk22r pro",
+   "alias": "tk22r pro",
+   "name": "Fenix TK22R PRO",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 251,
+   "priceUSD": 160
+  },
+  {
+   "key": "fenix tk25r",
+   "alias": "tk25r",
+   "name": "Fenix TK25R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 225,
+   "priceUSD": 140
+  },
+  {
+   "key": "fenix tk28r",
+   "alias": "tk28r",
+   "name": "Fenix TK28R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 358,
+   "priceUSD": 220
+  },
+  {
    "key": "fenix uc35 v2.0",
    "alias": "uc35 v2.0",
    "name": "Fenix UC35 V2.0",
@@ -5276,6 +5636,24 @@
    "category": "Tools/EDC",
    "grams": 89,
    "priceUSD": 90
+  },
+  {
+   "key": "fenix wh23r",
+   "alias": "wh23r",
+   "name": "Fenix WH23R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 115,
+   "priceUSD": 60
+  },
+  {
+   "key": "fenix wt16r",
+   "alias": "wt16r",
+   "name": "Fenix WT16R",
+   "brand": "Fenix",
+   "category": "Tools/EDC",
+   "grams": 129,
+   "priceUSD": 65
   },
   {
    "key": "field notes 1943 (fnc-69, 3-pack)",
@@ -7605,8 +7983,8 @@
    "name": "Miyoo Mini Plus",
    "brand": "Miyoo",
    "category": "Tech/Electronics",
-   "grams": 96,
-   "priceUSD": 40
+   "grams": 162,
+   "priceUSD": 54
   },
   {
    "key": "moleskine cahier pocket (3-pack)",
@@ -9193,6 +9571,69 @@
    "priceUSD": 39
   },
   {
+   "key": "peak design 2-in-1 mobile charging station",
+   "alias": "2-in-1 mobile charging station",
+   "name": "Peak Design 2-in-1 Mobile Charging Station",
+   "brand": "Peak Design",
+   "category": "Tech/Electronics",
+   "grams": 276,
+   "priceUSD": 100
+  },
+  {
+   "key": "peak design capture camera clip",
+   "alias": "capture camera clip",
+   "name": "Peak Design Capture Camera Clip",
+   "brand": "Peak Design",
+   "category": "Tech/Electronics",
+   "grams": 84,
+   "priceUSD": 80
+  },
+  {
+   "key": "peak design city backpack 15l",
+   "alias": "city backpack 15l",
+   "name": "Peak Design City Backpack 15L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 750,
+   "priceUSD": 180
+  },
+  {
+   "key": "peak design city backpack 22l",
+   "alias": "city backpack 22l",
+   "name": "Peak Design City Backpack 22L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 890,
+   "priceUSD": 200
+  },
+  {
+   "key": "peak design city crescent 12l",
+   "alias": "city crescent 12l",
+   "name": "Peak Design City Crescent 12L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 530,
+   "priceUSD": 120
+  },
+  {
+   "key": "peak design city crescent 6l",
+   "alias": "city crescent 6l",
+   "name": "Peak Design City Crescent 6L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 315,
+   "priceUSD": 90
+  },
+  {
+   "key": "peak design dual slim charger 65w",
+   "alias": "dual slim charger 65w",
+   "name": "Peak Design Dual Slim Charger 65W",
+   "brand": "Peak Design",
+   "category": "Tech/Electronics",
+   "grams": 81,
+   "priceUSD": 65
+  },
+  {
    "key": "peak design everyday backpack 20l",
    "alias": "everyday backpack 20l",
    "name": "Peak Design Everyday Backpack 20L",
@@ -9209,6 +9650,42 @@
    "category": "Bags",
    "grams": 1450,
    "priceUSD": 300
+  },
+  {
+   "key": "peak design everyday backpack 30l",
+   "alias": "everyday backpack 30l",
+   "name": "Peak Design Everyday Backpack 30L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1760,
+   "priceUSD": 300
+  },
+  {
+   "key": "peak design everyday backpack zip 15l",
+   "alias": "everyday backpack zip 15l",
+   "name": "Peak Design Everyday Backpack Zip 15L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1140,
+   "priceUSD": 200
+  },
+  {
+   "key": "peak design everyday backpack zip 20l",
+   "alias": "everyday backpack zip 20l",
+   "name": "Peak Design Everyday Backpack Zip 20L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1320,
+   "priceUSD": 230
+  },
+  {
+   "key": "peak design everyday messenger 13l",
+   "alias": "everyday messenger 13l",
+   "name": "Peak Design Everyday Messenger 13L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1010,
+   "priceUSD": 250
   },
   {
    "key": "peak design everyday sling 10l",
@@ -9247,6 +9724,24 @@
    "priceUSD": 160
   },
   {
+   "key": "peak design everyday totepack 20l",
+   "alias": "everyday totepack 20l",
+   "name": "Peak Design Everyday Totepack 20L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1050,
+   "priceUSD": 190
+  },
+  {
+   "key": "peak design kickstand travel battery 5000mah",
+   "alias": "kickstand travel battery 5000mah",
+   "name": "Peak Design Kickstand Travel Battery 5000mAh",
+   "brand": "Peak Design",
+   "category": "Tech/Electronics",
+   "grams": 145,
+   "priceUSD": 100
+  },
+  {
    "key": "peak design mobile tripod",
    "alias": "mobile tripod",
    "name": "Peak Design Mobile Tripod",
@@ -9254,6 +9749,87 @@
    "category": "Tech/Electronics",
    "grams": 85,
    "priceUSD": 80
+  },
+  {
+   "key": "peak design outdoor backpack 18l",
+   "alias": "outdoor backpack 18l",
+   "name": "Peak Design Outdoor Backpack 18L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1000,
+   "priceUSD": 200
+  },
+  {
+   "key": "peak design outdoor sling 2l",
+   "alias": "outdoor sling 2l",
+   "name": "Peak Design Outdoor Sling 2L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 177,
+   "priceUSD": 60
+  },
+  {
+   "key": "peak design outdoor sling 4l",
+   "alias": "outdoor sling 4l",
+   "name": "Peak Design Outdoor Sling 4L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 185,
+   "priceUSD": 80
+  },
+  {
+   "key": "peak design outdoor sling 7l",
+   "alias": "outdoor sling 7l",
+   "name": "Peak Design Outdoor Sling 7L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 335,
+   "priceUSD": 100
+  },
+  {
+   "key": "peak design packing cube large",
+   "alias": "packing cube large",
+   "name": "Peak Design Packing Cube Large",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 181,
+   "priceUSD": 50
+  },
+  {
+   "key": "peak design packing cube medium",
+   "alias": "packing cube medium",
+   "name": "Peak Design Packing Cube Medium",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 144,
+   "priceUSD": 40
+  },
+  {
+   "key": "peak design packing cube small",
+   "alias": "packing cube small",
+   "name": "Peak Design Packing Cube Small",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 110,
+   "priceUSD": 30
+  },
+  {
+   "key": "peak design packing cube smedium",
+   "alias": "packing cube smedium",
+   "name": "Peak Design Packing Cube Smedium",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 127,
+   "priceUSD": 35
+  },
+  {
+   "key": "peak design roller pro",
+   "alias": "roller pro",
+   "name": "Peak Design Roller Pro",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 3900,
+   "priceUSD": 600
   },
   {
    "key": "peak design tech pouch",
@@ -9265,6 +9841,33 @@
    "priceUSD": 60
   },
   {
+   "key": "peak design travel backpack 2-in-1 40l",
+   "alias": "travel backpack 2-in-1 40l",
+   "name": "Peak Design Travel Backpack 2-in-1 40L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 2450,
+   "priceUSD": 400
+  },
+  {
+   "key": "peak design travel backpack 20l",
+   "alias": "travel backpack 20l",
+   "name": "Peak Design Travel Backpack 20L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1150,
+   "priceUSD": 200
+  },
+  {
+   "key": "peak design travel backpack 30l",
+   "alias": "travel backpack 30l",
+   "name": "Peak Design Travel Backpack 30L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1440,
+   "priceUSD": 250
+  },
+  {
    "key": "peak design travel crossbody 3l",
    "alias": "travel crossbody 3l",
    "name": "Peak Design Travel Crossbody 3L",
@@ -9272,6 +9875,60 @@
    "category": "Bags",
    "grams": 450,
    "priceUSD": 100
+  },
+  {
+   "key": "peak design travel duffel 35l",
+   "alias": "travel duffel 35l",
+   "name": "Peak Design Travel Duffel 35L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 900,
+   "priceUSD": 150
+  },
+  {
+   "key": "peak design travel duffel 65l",
+   "alias": "travel duffel 65l",
+   "name": "Peak Design Travel Duffel 65L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1300,
+   "priceUSD": 180
+  },
+  {
+   "key": "peak design travel duffel 80l",
+   "alias": "travel duffel 80l",
+   "name": "Peak Design Travel Duffel 80L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1400,
+   "priceUSD": 200
+  },
+  {
+   "key": "peak design travel duffelpack 65l",
+   "alias": "travel duffelpack 65l",
+   "name": "Peak Design Travel Duffelpack 65L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1770,
+   "priceUSD": 240
+  },
+  {
+   "key": "peak design travel weekender 25l",
+   "alias": "travel weekender 25l",
+   "name": "Peak Design Travel Weekender 25L",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 1250,
+   "priceUSD": 200
+  },
+  {
+   "key": "peak design wash pouch small",
+   "alias": "wash pouch small",
+   "name": "Peak Design Wash Pouch Small",
+   "brand": "Peak Design",
+   "category": "Bags",
+   "grams": 176,
+   "priceUSD": 50
   },
   {
    "key": "pebblebee card 5",
@@ -9335,6 +9992,87 @@
    "category": "Tools/EDC",
    "grams": 82,
    "priceUSD": 75
+  },
+  {
+   "key": "pilot dr. grip 4+1",
+   "alias": "dr. grip 4+1",
+   "name": "Pilot Dr. Grip 4+1",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 27,
+   "priceUSD": 21
+  },
+  {
+   "key": "pilot dr. grip center of gravity",
+   "alias": "dr. grip center of gravity",
+   "name": "Pilot Dr. Grip Center of Gravity",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 10
+  },
+  {
+   "key": "pilot dr. grip center of gravity pink ribbon",
+   "alias": "dr. grip center of gravity pink ribbon",
+   "name": "Pilot Dr. Grip Center of Gravity Pink Ribbon",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 10
+  },
+  {
+   "key": "pilot dr. grip frosted",
+   "alias": "dr. grip frosted",
+   "name": "Pilot Dr. Grip Frosted",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 11
+  },
+  {
+   "key": "pilot dr. grip fullblack",
+   "alias": "dr. grip fullblack",
+   "name": "Pilot Dr. Grip FullBlack",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 10
+  },
+  {
+   "key": "pilot dr. grip gel",
+   "alias": "dr. grip gel",
+   "name": "Pilot Dr. Grip Gel",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 10
+  },
+  {
+   "key": "pilot dr. grip limited",
+   "alias": "dr. grip limited",
+   "name": "Pilot Dr. Grip Limited",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 10
+  },
+  {
+   "key": "pilot dr. grip purewhite",
+   "alias": "dr. grip purewhite",
+   "name": "Pilot Dr. Grip PureWhite",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 11
+  },
+  {
+   "key": "pilot dr. grip rt",
+   "alias": "dr. grip rt",
+   "name": "Pilot Dr. Grip RT",
+   "brand": "Pilot",
+   "category": "Tools/EDC",
+   "grams": 20,
+   "priceUSD": 10
   },
   {
    "key": "pilot g2 gel",
@@ -11819,6 +12557,15 @@
    "category": "Tools/EDC",
    "grams": 227,
    "priceUSD": 82
+  },
+  {
+   "key": "wuben e2 pulse",
+   "alias": "e2 pulse",
+   "name": "Wuben E2 Pulse",
+   "brand": "Wuben",
+   "category": "Tools/EDC",
+   "grams": 11,
+   "priceUSD": 20
   },
   {
    "key": "wurkkos fc11",
